@@ -48,23 +48,16 @@ const socialCount = SOCIALS.filter(social => social.active).length;
         >
         marombeltran
         </LinkButton>
-        soy estudiante y desarrollo de software con intereses en arquitectura de software y todo lo relacionado con la web. Actualmente me encuentro
-        cursando mi carrera y trabajo como desarrollador web.
+        soy estudiante y desarrollador de software con intereses en arquitectura de software y todo lo relacionado con la web. Actualmente me encuentro
+        cursando mi carrera y trabajo como desarrollador web en tiempo completo.
       </p>
       <p>
-        Read the blog posts or check
-        <LinkButton
-          className="hover:text-skin-accent underline underline-offset-4 decoration-dashed"
-          href="https://github.com/satnaing/astro-paper#readme"
-        >
-          README
-        </LinkButton> for more info.
-      </p>
+        Puedes seguirme en mis redes sociales y leerme justo aquí abajo.
       {
         // only display if at least one social link is enabled
         socialCount > 0 && (
           <div class="social-wrapper">
-            <div class="social-links">Social Links:</div>
+            <div class="social-links">Redes sociales:</div>
             <Socials />
           </div>
         )
