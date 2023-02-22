@@ -5,7 +5,7 @@ export const SITE = {
   author: "Marom Beltran",
   desc: "Marom Beltran | Personal Blog",
   title: "Marom Beltran",
-  ogImage: "astropaper-og.jpg",
+  // ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
 };
@@ -13,7 +13,7 @@ export const SITE = {
 export const LOGO_IMAGE = {
   enable: false,
   svg: true,
-  width: 216,
+  width: 300,
   height: 46,
 };
 
@@ -21,7 +21,7 @@ export const SOCIALS: SocialObjects = [
   {
     name: "Github",
     href: "https://github.com/marombeltran",
-    linkTitle: ` ${SITE.title} on Github`,
+    linkTitle: ` ${SITE.title} en Github`,
     active: true,
   },
   // {
@@ -39,19 +39,19 @@ export const SOCIALS: SocialObjects = [
   {
     name: "LinkedIn",
     href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on LinkedIn`,
+    linkTitle: `${SITE.title} en LinkedIn`,
     active: true,
   },
   {
     name: "Mail",
     href: "mailto:mrmbeltran@proton.me",
-    linkTitle: `Send an email to ${SITE.title}`,
+    linkTitle: `Enviar email a ${SITE.title}`,
     active: false,
   },
   {
     name: "Twitter",
     href: "https://twitter.com/marom_beltran",
-    linkTitle: `${SITE.title} on Twitter`,
+    linkTitle: `${SITE.title} en Twitter`,
     active: false,
   },
   // {
@@ -63,7 +63,7 @@ export const SOCIALS: SocialObjects = [
   {
     name: "YouTube",
     href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on YouTube`,
+    linkTitle: `${SITE.title} en YouTube`,
     active: false,
   },
   // {
@@ -96,12 +96,12 @@ export const SOCIALS: SocialObjects = [
   //   linkTitle: `${SITE.title} on CodePen`,
   //   active: false,
   // },
-  {
-    name: "Discord",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on Discord`,
-    active: false,
-  },
+  // {
+  //   name: "Discord",
+  //   href: "https://github.com/satnaing/astro-paper",
+  //   linkTitle: `${SITE.title} on Discord`,
+  //   active: false,
+  // },
   // {
   //   name: "GitLab",
   //   href: "https://github.com/satnaing/astro-paper",
