@@ -46,6 +46,6 @@ export const SOCIALS: SocialObjects = [
     name: "YouTube",
     href: "https://youtube.com/@marombeltran",
     linkTitle: `${SITE.title} en YouTube`,
-    active: false,
+    active: true,
   }
 ];
