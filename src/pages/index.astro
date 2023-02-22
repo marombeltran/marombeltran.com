@@ -46,9 +46,9 @@ const socialCount = SOCIALS.filter(social => social.active).length;
           className="hover:text-skin-accent underline underline-offset-4 decoration-dashed"
           href="https://twitter.com/marom_beltran"
         >
-        marombeltran
+        @marombeltran
         </LinkButton>
-        soy estudiante y desarrollador de software con intereses en arquitectura de software y todo lo relacionado con la web. Actualmente me encuentro
+        , soy estudiante y desarrollador de software con intereses en arquitectura de software y todo lo relacionado con la web. Actualmente me encuentro
         cursando mi carrera y trabajo como desarrollador web en tiempo completo.
       </p>
       <p>
@@ -57,7 +57,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
         // only display if at least one social link is enabled
         socialCount > 0 && (
           <div class="social-wrapper">
-            <div class="social-links">Redes sociales:</div>
+            <div class="social-links"></div>
             <Socials />
           </div>
         )
