@@ -8,7 +8,8 @@ algo que por hoy me tiene bastante ocupado en conjunto con mi trabajo como progr
 
 Soy padre de un niño muy inteligente, alguien quien hace mi vida más llevadera, y por el cuál quisiera ser eterno.
 
-Cuando no estoy con los dedos en el teclado  puedes encontrarme disfrutando con mi familia y amigos a los alrededores del  departamento de La Libertad, El Zonte para ser más precisos.
+Cuando no estoy con los dedos en el teclado puedes encontrarme disfrutando con mi familia y amigos a los alrededores 
+del  departamento de La Libertad.
 
 <div>
   <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
