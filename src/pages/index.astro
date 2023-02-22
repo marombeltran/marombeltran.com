@@ -47,9 +47,8 @@ const socialCount = SOCIALS.filter(social => social.active).length;
           href="https://twitter.com/marom_beltran"
         >
         @marombeltran
-        </LinkButton>
-        , soy estudiante y desarrollador de software con intereses en arquitectura de software y todo lo relacionado con la web. Actualmente me encuentro
-        cursando mi carrera y trabajo como desarrollador web en tiempo completo.
+        </LinkButton>, soy un estudiante y desarrollador de software que reside en El Salvador, con intereses en arquitectura de software
+        y todo lo relacionado con la web. Actualmente me encuentro cursando mi carrera además trabajo como desarrollador web en tiempo completo.
       </p>
       <p>
         Puedes seguirme en mis redes sociales y leerme justo aquí abajo.
@@ -57,7 +56,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
         // only display if at least one social link is enabled
         socialCount > 0 && (
           <div class="social-wrapper">
-            <div class="social-links"></div>
+            <div class="social-links">Sígueme: </div>
             <Socials />
           </div>
         )
