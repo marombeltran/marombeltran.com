@@ -5,7 +5,7 @@ export const SITE = {
   author: "Marom Beltran",
   desc: "Marom Beltran | Personal Blog",
   title: "Marom/Beltran",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "marombeltran.webp",
   lightAndDarkMode: true,
   postPerPage: 3,
 };
