@@ -6,16 +6,14 @@ postSlug: structure-of-a-c++-program
 featured: true
 draft: false
 tags:
-  - docs
+  - C++
 ogImage: ""
 description:
-  Some rules & recommendations for creating or adding new posts using AstroPaper
-  theme.
+    C++ es un poderoso lenguaje de programación que se utiliza para desarrollar una amplia gama de aplicaciones. Es un lenguaje compilado, lo que significa que el código debe compilarse antes de que pueda ejecutarse. En esta publicación de blog, analizaremos la estructura del programa en C++, que incluye las diferentes partes de un programa C++ y cómo funcionan juntas.
 ---
 
-Here are some rules/recommendations, tips & ticks for creating new posts in AstroPaper blog theme.
 
-## Table of contents
+## Tabla de contenido 
 
 # Estructura del programa en C++
 
