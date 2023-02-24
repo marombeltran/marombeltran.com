@@ -16,7 +16,7 @@ description:
 C++ tiene caracteristicas que lo hacen único al momento de utilizar recursos a bajo nivel, en este post se exploran dos conceptos
 primordiales; funciones como argumentos y manejo de memoria, los ejemplos resuelven dos ejercicios propuestos por mi catedra de
 Lógica de programación de mi ciclo escolar.
-```c++
+```c
 #include <iostream>
 #include <functional>
 
@@ -50,7 +50,7 @@ int main()
 }
 ```
 Asignación dinámica de memoria, un ejemplo de exploración.
-```c++
+```c
 #include <iostream>
 
 void *allocateMemory (int nbytes)
