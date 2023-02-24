@@ -7,12 +7,15 @@ featured: true
 draft: false
 tags:
   - C++
-ogImage: "https://marombeltran.com/assets/functions-as-arguments-dynamic-memory-allocation.jpg"
+ogImage: ""
 description:
-C++ tiene caracteristicas que lo hacen único al momento de utilizar recursos a bajo nivel, en este post se exploran dos conceptos
-primordiales; funciones como argumentos y manejo dinámico de memoria, los ejemplos resuelven dos ejercicios propuestos por la catedra de
-Lógica de programación en mi ciclo escolar.
+    C++ tiene caracteristicas que lo hacen único al momento de utilizar recursos a bajo nivel, en este post se exploran dos conceptos
+    primordiales; funciones como argumentos y manejo dinámico de memoria, los ejemplos resuelven dos ejercicios propuestos por la catedra de
+    Lógica de programación en mi ciclo escolar.
 ---
+
+## Introducción
+
 C++ tiene caracteristicas que lo hacen único al momento de utilizar recursos a bajo nivel, en este post se exploran dos conceptos
 primordiales; funciones como argumentos y manejo dinámico de memoria, los ejemplos resuelven dos ejercicios propuestos por la catedra de
 Lógica de programación en mi ciclo escolar.
