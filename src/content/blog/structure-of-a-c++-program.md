@@ -12,8 +12,6 @@ description:
     C++ es un poderoso lenguaje de programación que se utiliza para desarrollar una amplia gama de aplicaciones. Es un lenguaje compilado, lo que significa que el código debe compilarse antes de que pueda ejecutarse. En esta publicación de blog, analizaremos la estructura del programa en C++, que incluye las diferentes partes de un programa C++ y cómo funcionan juntas.
 ---
 
-## Tabla de contenido 
-
 # Estructura del programa en C++
 
 ## Introducción

@@ -26,12 +26,6 @@ Existen tres formas de usar funciones como argumentos.
 - luego el uso de `expresiones lambda` 
 - y al final el uso de la plantilla `std::function<>`.
 
-Veamos qué es un puntero: un puntero es una <em><strong>variable</em></strong> que contiene la 
-<em><strong>dirección</strong></em> de memoria de un dato `o de otra variable que contiene el dato`. Es decir, que el 
-puntero apunta al espacio físico donde está el dato o la variable.
-
-Un puntero puede apuntar a un objeto de cualquier tipo; a una estructura o a una función.
-
 ```c
 #include <limits>
 #include <iostream>
