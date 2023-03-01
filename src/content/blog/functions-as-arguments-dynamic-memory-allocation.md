@@ -14,11 +14,24 @@ description:
     Lógica de programación en mi ciclo escolar.
 ---
 
+![An arrow pointing at the website logo](https://marombeltran.com/assets/functions-as-arguments-dynamic-memory-allocation.jpg)
 ## Introducción
 
 C++ tiene caracteristicas que lo hacen único al momento de utilizar recursos a bajo nivel, en este post se exploran dos conceptos
 primordiales; funciones como argumentos y manejo dinámico de memoria, los ejemplos resuelven dos ejercicios propuestos por la catedra de
 Lógica de programación en mi ciclo escolar.
+
+Existen tres formas de usar funciones como argumentos. 
+- Primero exploramos el uso de `punteros y referencias`, 
+- luego el uso de `expresiones lambda` 
+- y al final el uso de la plantilla `std::function<>`.
+
+Veamos qué es un puntero: un puntero es una <em><strong>variable</em></strong> que contiene la 
+<em><strong>dirección</strong></em> de memoria de un dato `o de otra variable que contiene el dato`. Es decir, que el 
+puntero apunta al espacio físico donde está el dato o la variable.
+
+Un puntero puede apuntar a un objeto de cualquier tipo; a una estructura o a una función.
+
 ```c
 #include <limits>
 #include <iostream>
@@ -59,6 +72,10 @@ int main(int argc, char const *argv[])
 
     return 0;
 }
+```
+Lambda
+```c
+fname(prm, prm, [](type prm, type prm) -> int { return [(] expression [])]; });
 ```
 Asignación dinámica de memoria, un ejemplo de exploración.
 ```c
