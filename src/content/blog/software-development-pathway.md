@@ -47,6 +47,3 @@ Además, existen sub-técnicas que son impresindibles para un ingeniero de softw
 
 En posts porteriores intentaremos profundizar uno a uno cada uno de los tópicos propuestos, no te quedes sin leerlos y disfrutarlos.
 
-<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/marombeltran" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/marombeltran', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form>
-        
-
