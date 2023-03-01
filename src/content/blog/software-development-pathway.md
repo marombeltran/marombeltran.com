@@ -6,7 +6,7 @@ postSlug: software-development-pathway
 featured: true
 draft: false
 tags: Software
-ogImage: https://unsplash.com/photos/QM5-lbqzREc
+ogImage: 
 description: En todo estudio del desarrollo de software a nivel profesional existen tópicos que no pueden ser omitidos,
 y que dependiendo del enfoque, contexto y perspectiva de aprendizaje pueden tener un orden para conseguir los mejores resultados en la
 construccción de un entendimiento especializado y global, en este post del blog, mostramos la ruta más común para la comprensión y 
