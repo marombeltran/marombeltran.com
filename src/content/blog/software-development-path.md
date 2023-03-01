@@ -1,12 +1,13 @@
 ---
 author: Marom Beltran
 pubDatetime: 2023-03-01T21:28:00Z
-title: Posible ruta del desarrollo de software 
-postSlug: software-development-pathway
+title: Ruta del desarrollo de software 
+postSlug: software-development-path
 featured: true
 draft: false
-tags: Software
-ogImage: 
+tags: 
+- Software
+ogImage: ""
 description: En todo estudio del desarrollo de software a nivel profesional existen tópicos que no pueden ser omitidos,
 y que dependiendo del enfoque, contexto y perspectiva de aprendizaje pueden tener un orden para conseguir los mejores resultados en la
 construccción de un entendimiento especializado y global, en este post del blog, mostramos la ruta más común para la comprensión y 
