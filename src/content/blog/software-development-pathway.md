@@ -1,10 +1,10 @@
 author: Marom Beltran
-pubDatetime: 2023-02-27T21:28:00Z
-title: Variables en C++
+pubDatetime: 2023-03-01T21:28:00Z
+title: Posible ruta del desarrollo de software 
 postSlug: software-development-pathway
 featured: true
 draft: false
-tags: C++
+tags: Software
 ogImage: https://unsplash.com/photos/QM5-lbqzREc
 description: En todo estudio del desarrollo de software a nivel profesional existen tópicos que no pueden ser omitidos,
 y que dependiendo del enfoque, contexto y perspectiva de aprendizaje pueden tener un orden para conseguir los mejores resultados en la
