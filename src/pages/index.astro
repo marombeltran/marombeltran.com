@@ -41,18 +41,26 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       </a>
 
       <p>
-        Mi nombre es Marlon Beltrán, conocido como
+        ¡Bienvenido/a! mi nombre es Marlon Beltrán, pero muchos me conocen como
         <LinkButton
           className="hover:text-skin-accent underline underline-offset-4 decoration-dashed"
           href="https://twitter.com/marom_beltran"
         >
-          @marombeltran
-        </LinkButton>, te encuentras en mi blog, un lugar donde escribo cosas
-        que me parecen interesantes de mi día a día.
+        @marombeltran. </LinkButton>
+        <br> <br>
+        Estás en mi blog, un espacio donde comparto experiencias personales de mi vida profesional como
+        <LinkButton
+          className="hover:text-skin-accent underline underline-offset-4 decoration-dashed"
+          href="https://twitter.com/marom_beltran"
+        >
+        <em>software developer</em>
+        </LinkButton>
+          que me parecen interesantes de mi día a día y que espero disfrutes
+        tanto como yo al escribirlas.
+        <br> <br>
+        Si te gusta lo que encuentras aquí, te invito a seguirme en mis redes sociales o a contactarme via email, si así lo deseas.
       </p>
       <p>
-        Puedes seguirme en mis redes sociales o enviarme un email, si así lo
-        deseas, además puedes leerme justo aquí abajo.
         {
           // only display if at least one social link is enabled
           socialCount > 0 && (
@@ -62,6 +70,10 @@ const socialCount = SOCIALS.filter(social => social.active).length;
             </div>
           )
         }
+      </p>
+      <p> <br>
+        ¡Y no te olvides de seguir leyéndome aquí abajo! Encontrarás contenido que te entretendrá,
+        inspirará y te llevará a nuevas reflexiones. ¡Gracias por estar aquí!
       </p>
 
       <Hr />
