@@ -51,13 +51,8 @@ const { activeNav } = Astro.props;
             </a>
           </li>
           <li>
-            <a href="/tags" class={activeNav === "tags" ? "active" : ""}>
-              Etiquetas
-            </a>
-          </li>
-          <li>
             <a href="/about" class={activeNav === "about" ? "active" : ""}>
-              Sobre mí
+              X Ahora
             </a>
           </li>
           <li>
@@ -67,7 +62,7 @@ const { activeNav } = Astro.props;
                 activeNav === "search" ? "active" : ""
               }`}
               ariaLabel="search"
-              title="Search"
+              title="Buscar"
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -195,7 +190,7 @@ const { activeNav } = Astro.props;
     const menuExpanded = menuBtn?.getAttribute("aria-expanded");
     if (menuExpanded === "false") {
       menuBtn?.setAttribute("aria-expanded", "true");
-      menuBtn?.setAttribute("aria-label", "Close Menu");
+      menuBtn?.setAttribute("aria-label", "Cerrar Menu");
       menuItems?.remove("display-none");
 
       // icon animation
@@ -206,7 +201,7 @@ const { activeNav } = Astro.props;
       secondLine?.add("!w-full", "-rotate-45", "absolute", "bottom-1/2");
     } else {
       menuBtn?.setAttribute("aria-expanded", "false");
-      menuBtn?.setAttribute("aria-label", "Open Menu");
+      menuBtn?.setAttribute("aria-label", "Abrir Menu");
       menuItems?.add("display-none");
 
       // icon animation

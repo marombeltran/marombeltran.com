@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "Sobre mí"
+title: "X Ahora"
 ---
 
 Mi nombre es Marlon Beltrán, soy estudiante y desarrollador de software residente de El Salvador,
