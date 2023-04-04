@@ -23,7 +23,7 @@ export default defineConfig({
       [
         remarkCollapse,
         {
-          test: "Tabla de contenido",
+          test: "Table of contents",
         },
       ],
     ],
@@ -32,5 +32,10 @@ export default defineConfig({
       wrap: true,
     },
     extendDefaultPlugins: true,
+  },
+  vite: {
+    optimizeDeps: {
+      exclude: ["@resvg/resvg-js"],
+    },
   },
 });

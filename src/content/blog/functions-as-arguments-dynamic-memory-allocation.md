@@ -9,21 +9,23 @@ tags:
   - C++
 ogImage: https://marombeltran.com/assets/functions-as-arguments-dynamic-memory-allocation.jpg
 description:
-    C++ tiene caracteristicas que lo hacen único al momento de utilizar recursos a bajo nivel, en este post se exploran dos conceptos
-    primordiales; funciones como argumentos y manejo dinámico de memoria, los ejemplos resuelven dos ejercicios propuestos por la catedra de
-    Lógica de programación en mi ciclo escolar.
+  C++ tiene caracteristicas que lo hacen único al momento de utilizar recursos a bajo nivel, en este post se exploran dos conceptos
+  primordiales; funciones como argumentos y manejo dinámico de memoria, los ejemplos resuelven dos ejercicios propuestos por la catedra de
+  Lógica de programación en mi ciclo escolar.
 ---
 
 ![An arrow pointing at the website logo](https://marombeltran.com/assets/functions-as-arguments-dynamic-memory-allocation.jpg)
+
 ## Introducción
 
 C++ tiene caracteristicas que lo hacen único al momento de utilizar recursos a bajo nivel, en este post se exploran dos conceptos
 primordiales; funciones como argumentos y manejo dinámico de memoria, los ejemplos resuelven dos ejercicios propuestos por la catedra de
 Lógica de programación en mi ciclo escolar.
 
-Existen tres formas de usar funciones como argumentos. 
-- Primero exploramos el uso de `punteros y referencias`, 
-- luego el uso de `expresiones lambda` 
+Existen tres formas de usar funciones como argumentos.
+
+- Primero exploramos el uso de `punteros y referencias`,
+- luego el uso de `expresiones lambda`
 - y al final el uso de la plantilla `std::function<>`.
 
 ```c
@@ -67,11 +69,15 @@ int main(int argc, char const *argv[])
     return 0;
 }
 ```
+
 Lambda
+
 ```c
 fname(prm, prm, [](type prm, type prm) -> int { return [(] expression [])]; });
 ```
+
 Asignación dinámica de memoria, un ejemplo de exploración.
+
 ```c
 #include <iostream>
 
@@ -101,7 +107,7 @@ int main (int argc, char const *argv[])
     if (nums = static_cast<int *>(allocateMemory(nbytes))) {
         std::cout << "Se han asignado " << nbytes << " bytes de memoria." << std::endl;
         std::cout << "Correspondiente a " << nbytes/sizeof(int) << " elementos de tipo integer." << std::endl;
-        
+
         for (i = 0; i < num; i++)
         // Llenar el nuevo segmento asignado a `nums`
         {

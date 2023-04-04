@@ -5,7 +5,7 @@ export const SITE = {
   author: "Marom Beltran",
   desc: "Marom Beltran | Personal Blog",
   title: "Marom/Beltran",
-  ogImage: "marombeltran.webp",
+  ogImage: "marombeltran.png",
   lightAndDarkMode: true,
   postPerPage: 3,
 };
@@ -13,7 +13,7 @@ export const SITE = {
 export const LOGO_IMAGE = {
   enable: false,
   svg: true,
-  width: 400,
+  width: 216,
   height: 46,
 };
 
@@ -47,5 +47,5 @@ export const SOCIALS: SocialObjects = [
     href: "https://youtube.com/@marombeltran",
     linkTitle: `${SITE.title} en YouTube`,
     active: true,
-  }
+  },
 ];

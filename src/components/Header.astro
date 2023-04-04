@@ -22,7 +22,7 @@ const { activeNav } = Astro.props;
           LOGO_IMAGE.enable ? (
             <img
               src={LOGO_IMAGE.svg ? logoSVG : logoPNG}
-              alt="Marom Beltran Logo"
+              alt="AstroPaper Logo"
               width={LOGO_IMAGE.width}
               height={LOGO_IMAGE.height}
             />
@@ -51,32 +51,23 @@ const { activeNav } = Astro.props;
             </a>
           </li>
           <li>
-            <a href="/about" class={activeNav === "about" ? "active" : ""}>
-              Sobre Mí
+            <a href="/tags" class={activeNav === "tags" ? "active" : ""}>
+              Tags
             </a>
           </li>
           <li>
-          <li>
-            <LinkButton
-              href="/tags"
-              className={`focus-outline p-3 sm:p-1 ${
-                activeNav === "tags" ? "active" : ""
-              }`}
-              ariaLabel="Etiquetas"
-              title="Etiquetas"
-            >
-                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
-                  <path stroke-linecap="round" stroke-linejoin="round" d="M5.25 8.25h15m-16.5 7.5h15m-1.8-13.5l-3.9 19.5m-2.1-19.5l-3.9 19.5" />
-                </svg>
-            </LinkButton>
+            <a href="/about" class={activeNav === "about" ? "active" : ""}>
+              About
+            </a>
           </li>
+          <li>
             <LinkButton
               href="/search"
               className={`focus-outline p-3 sm:p-1 ${
                 activeNav === "search" ? "active" : ""
               }`}
-              ariaLabel="Buscar"
-              title="Buscar"
+              ariaLabel="search"
+              title="Search"
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -93,6 +84,7 @@ const { activeNav } = Astro.props;
                 <button
                   id="theme-btn"
                   class="focus-outline"
+                  title="Toggles light & dark"
                   aria-label="auto"
                   aria-live="polite"
                 >
