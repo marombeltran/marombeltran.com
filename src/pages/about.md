@@ -3,7 +3,7 @@ layout: ../layouts/AboutLayout.astro
 title: "X Ahora"
 ---
 
-Mi nombre es Marlon Beltrán, soy estudiante y desarrollador de software residente de El Salvador,
+Soy estudiante y desarrollador de software residente de El Salvador,
 actualmente estoy cursando mi carrera de Ingeniería en Desarrollo de Software impartida por la Universidad de El Salvador,
 algo que por hoy me tiene bastante ocupado en conjunto con mi trabajo como programador para una empresa local.
 
