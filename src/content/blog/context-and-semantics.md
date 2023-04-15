@@ -49,9 +49,8 @@ evidencias y experiencias verificables para poder actuar de manera informada y e
 esencial aceptar y adaptarse a las verdades pre-comprobadas, al mismo tiempo que se está en busca de nuevas verdades que nos ayuden 
 a entender mejor nuestro entorno.
 
-Con el surgimiento de los ecosistemas digitales ..
-
-
-
-
+La creciente presencia de ecosistemas digitales ha permitido aplicar la abstracción en los procesos (fuera del ambito matemático común) y, 
+gracias a ello, hemos desarrollado habilidades que antes parecían imposibles, especialmente en el ámbito electrónico. Ahora bien, esto nos 
+lleva a preguntarnos: ¿cómo es posible que hayamos avanzado tanto en tan poco tiempo? Después de todo, el auge de la tecnología solo tiene 
+poco más de tres décadas.
 
