@@ -21,12 +21,11 @@ sostengo que todos deberíamos adquirir habilidades en este campo, aunque no sea
 Pero este tema no está dedicado al aprendizaje específico del arte de programar, sino mas bien, a los beneficios que conlleva aprender 
 estas habilidades.
 
-Para un programador principiante puede parecer complejo leer algunas sentencias de un lenguaje, 
-<LinkButton
+Para un programador novel, <LinkButton
           className="hover:text-skin-accent underline underline-offset-4 decoration-dashed"
           href="https://marombeltran.com/posts/the-software-developer"
         >
-<em>descifrar</em></LinkButton>  algunas líneas de código podría ser un verdadero reto, luego de eso entender cómo 
-todo esto toma un significado dentro de una máquina que apenas entiende qué es un zero y un 1 (de hecho ni eso sabe).
+<em>descifrar</em></LinkButton> ciertas líneas de código en un lenguaje de programación puede resultar abrumador. La comprensión de 
+cómo estas líneas cobran significado en una máquina que apenas puede distinguir entre un cero y un uno, es, en sí misma, un verdadero desafío.
 
 
