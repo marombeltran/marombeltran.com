@@ -21,11 +21,10 @@ sostengo que todos deberíamos adquirir habilidades en este campo, aunque no sea
 Sin embargo, el enfoque de esta temática no radica en el aprendizaje particular del arte de programar, sino más bien en los beneficios 
 que adquirimos al desarrollar tales habilidades.
 
-Para un programador novel, <LinkButton
-          className="hover:text-skin-accent underline underline-offset-4 decoration-dashed"
-          href="https://dle.rae.es/descifrar"
-        >
-<em>descifrar</em></LinkButton> ciertas líneas de código en un lenguaje de programación puede resultar abrumador. La comprensión de 
-cómo estas líneas cobran significado en una máquina que apenas puede distinguir entre un cero y un uno, es, en sí misma, un verdadero desafío.
+Para un programador novel, [descifrar](https://dle.rae.es/descifrar) ciertas líneas de código en un lenguaje de programación puede resultar 
+abrumador. La comprensión de cómo estas líneas cobran [significado](https://dle.rae.es/revelar) en una máquina que apenas puede distinguir 
+entre un cero y un uno, es, en sí misma, un verdadero desafío.
+
+
 
 
