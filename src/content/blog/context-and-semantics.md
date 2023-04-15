@@ -25,6 +25,11 @@ Para un programador novel, [descifrar](https://dle.rae.es/descifrar) ciertas lí
 abrumador. La comprensión de cómo estas líneas cobran [significado](https://dle.rae.es/revelar) en una máquina que apenas puede distinguir 
 entre un cero y un uno, es, en sí misma, un verdadero desafío.
 
+En esta publicación, deseo hacer hincapié en la construcción cognitiva del significado que atribuimos a las nuevas experiencias mentales, 
+sin embargo, no pretendo ofrecer una explicación científica detallada del proceso, ya que no soy un neurocientífico. Simplemente, 
+compartiré mi punto de vista personal basado en mi comprensión de este proceso.
+
+
 
 
 
