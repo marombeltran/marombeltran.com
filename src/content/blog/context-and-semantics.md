@@ -38,6 +38,19 @@ diaria de maneras muy útiles y valiosas.
 Es una estructura cognitiva interna que se desarrolla a partir de la experiencia, el conocimiento y las creencias individuales, y que se 
 utiliza para interpretar y dar sentido a los eventos, situaciones y objetos que encontramos en nuestra vida cotidiana.
 
+Es cierto que la verdad y la realidad son conceptos subjetivos que se construyen cognitivamente y que no son inmutables. Sin embargo, 
+hay experiencias que se pueden comprobar y que, en ciertas circunstancias, se consideran válidas y aceptables. A estas situaciones que 
+producen resultados predecibles les llamamos realidad o verdades. Y, en consecuencia, para no parecer extraños, todos buscamos operar 
+dentro de estos parámetros ya comprobados.
+
+Es importante reconocer que la búsqueda de la verdad y la comprensión de la realidad es un proceso constante que requiere de una mente 
+abierta y flexible. Aunque las verdades puedan cambiar con el tiempo y la experiencia, es fundamental basar nuestro conocimiento en 
+evidencias y experiencias verificables para poder actuar de manera informada y efectiva en el mundo que nos rodea. Por lo tanto, es 
+esencial aceptar y adaptarse a las verdades pre-comprobadas, al mismo tiempo que se está en busca de nuevas verdades que nos ayuden 
+a entender mejor nuestro entorno.
+
+Con el surgimiento de los ecosistemas digitales ..
+
 
 
 
