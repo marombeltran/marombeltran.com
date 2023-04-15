@@ -66,6 +66,6 @@ que activa el cerebro.
 > Es decir, todo entorno tiene sus reglas, limitaciones y elementos que no podemos comprender sin detenernos unos minutos a observarlos con una actitud 
 más general y perceptiva. Precisamente sobre esto quiero hablar cuando menciono las palabras 'contexto', 'semántica' y 'modelo mental'.
 
-"Si te ha gustado la introducción a este tema, espera la segunda parte que estará disponible mañana. Entiendo que puede ser difícil abarcar todo de 
-una sola vez sin aburrirte, así que no te preocupes. He preparado todo para que puedas disfrutar y aprender sin sobrecargarte. Espero verte 
-nuevamente aquí mañana, que tengas un buen día .." -. Me
+```js
+// Si te ha gustado la introducción a este tema, espera la segunda parte que estará disponible mañana. Entiendo que puede ser difícil abarcar todo de una sola vez sin aburrirte, así que no te preocupes. He preparado todo para que puedas disfrutar y aprender sin sobrecargarte. Espero verte nuevamente aquí mañana, que tengas un buen día ..
+```
