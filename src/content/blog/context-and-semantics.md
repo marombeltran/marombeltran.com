@@ -62,10 +62,9 @@ Resulta que, para comprender las reglas de un entorno de ejecución (ya sea un e
 cuenta sus limitaciones implícitas. Esto significa entender el significado que adquieren los elementos en cada interacción, y todo ello se logra 
 a través de la abstracción. Así, se va más allá de las cosas evidentes o de la utilización del (primer sistema de lectura) que activa el cerebro.
 
-Es decir, todo entorno tiene sus reglas, sus limitantes, sus cosas que no podemos comprender sin detenernos unos minutos a observarlas con una 
-una actitud más general y perceptiva, es de esto sobre lo quiero hablar cuando menciono las palabras contexto, semántica y modelo mental..
+> Es decir, todo entorno tiene sus reglas, limitaciones y elementos que no podemos comprender sin detenernos unos minutos a observarlos con una actitud 
+más general y perceptiva. Precisamente sobre esto quiero hablar cuando menciono las palabras 'contexto', 'semántica' y 'modelo mental'.
 
-##
-Si te ha gustado la introducción a este tema, espera la segunda parte que estará disponible mañana. Entiendo que puede ser difícil abarcar todo de 
+(Si te ha gustado la introducción a este tema, espera la segunda parte que estará disponible mañana. Entiendo que puede ser difícil abarcar todo de 
 una sola vez sin aburrirte, así que no te preocupes. He preparado todo para que puedas disfrutar y aprender sin sobrecargarte. Espero verte 
-nuevamente aquí mañana, que tengas un buen día .. 
+nuevamente aquí mañana, que tengas un buen día ..)
