@@ -25,9 +25,14 @@ Para un programador novel, [descifrar](https://dle.rae.es/descifrar) ciertas lí
 abrumador. La comprensión de cómo estas líneas cobran [significado](https://dle.rae.es/revelar) en una máquina que apenas puede distinguir 
 entre un cero y un uno, es, en sí misma, un verdadero desafío.
 
-En esta publicación, deseo hacer hincapié en la construcción cognitiva del significado que atribuimos a las nuevas experiencias mentales, 
+> En esta publicación, deseo hacer hincapié en la construcción cognitiva del significado que atribuimos a las nuevas experiencias mentales, 
 sin embargo, no pretendo ofrecer una explicación científica detallada del proceso, ya que no soy un neurocientífico. Simplemente, 
 compartiré mi punto de vista personal basado en mi comprensión de este proceso.
+
+### Comenzamos, quiero introducir un significado que probablemente no conoce la mayoría, el concepto de modelo mental 
+.. Un modelo mental es una representación mental que una persona construye para comprender y procesar la información del mundo que lo rodea. 
+Es una estructura cognitiva interna que se desarrolla a partir de la experiencia, el conocimiento y las creencias individuales, y que se 
+utiliza para interpretar y dar sentido a los eventos, situaciones y objetos que encontramos en nuestra vida cotidiana.
 
 
 
