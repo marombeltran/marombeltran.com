@@ -29,8 +29,12 @@ entre un cero y un uno, es, en sí misma, un verdadero desafío.
 sin embargo, no pretendo ofrecer una explicación científica detallada del proceso, ya que no soy un neurocientífico. Simplemente, 
 compartiré mi punto de vista personal basado en mi comprensión de este proceso.
 
-### Comenzamos, quiero introducir un significado que probablemente no conoce la mayoría, el concepto de modelo mental 
-.. Un modelo mental es una representación mental que una persona construye para comprender y procesar la información del mundo que lo rodea. 
+### Permítame presentarle un concepto que tal vez no sea familiar para usted: el modelo mental
+Este término se refiere a una representación interna y subjetiva que utilizamos para entender el mundo que nos rodea. 
+Si bien puede ser un concepto nuevo para algunos, estoy seguro de que una vez que comprenda su importancia, podrá aplicarlo a su vida 
+diaria de maneras muy útiles y valiosas.
+
+> Un modelo mental es una representación mental que una persona construye para comprender y procesar la información del mundo que lo rodea. 
 Es una estructura cognitiva interna que se desarrolla a partir de la experiencia, el conocimiento y las creencias individuales, y que se 
 utiliza para interpretar y dar sentido a los eventos, situaciones y objetos que encontramos en nuestra vida cotidiana.
 
