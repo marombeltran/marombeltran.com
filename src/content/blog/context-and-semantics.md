@@ -60,7 +60,8 @@ vida cotidiana.
 
 Resulta que, para comprender las reglas de un entorno de ejecución (ya sea un ecosistema o cualquier otra denominación), es necesario tener en 
 cuenta sus limitaciones implícitas. Esto significa entender el significado que adquieren los elementos en cada interacción, y todo ello se logra 
-a través de la abstracción. Así, se va más allá de las cosas evidentes o de la utilización del (primer sistema de lectura) que activa el cerebro.
+a través de la abstracción. Así, se va más allá de las cosas evidentes o de la utilización del (primer sistema de lectura)[https://rb.gy/np1ep] 
+que activa el cerebro.
 
 > Es decir, todo entorno tiene sus reglas, limitaciones y elementos que no podemos comprender sin detenernos unos minutos a observarlos con una actitud 
 más general y perceptiva. Precisamente sobre esto quiero hablar cuando menciono las palabras 'contexto', 'semántica' y 'modelo mental'.
