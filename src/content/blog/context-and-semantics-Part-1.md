@@ -53,8 +53,8 @@ las posibilidades), simplemente estás limitado no porque no puedas pensarlo, si
 Si sucediera lo contrario, estaríamos ante una anomalía en la matrix :). 
 
 Como programador me imagino que haz hecho las siguiente preguntas:
-- ¿Qué es un tipo dato y cómo se construyen?
-- ¿Qué sucede cuando hago casting?
+- ¿Qué es un tipo de dato y cómo se construyen?
+- ¿Qué sucede cuando hago un casting de un dato un int a un char?
 - ¿Qué es una bifurcación?
 - ¿Qué es una variable (dejando de lado lo que nos han enseñado)?
 - ¿Por qué una constante no se puede modificar una vez inicializada?
@@ -67,4 +67,7 @@ a = 0;`
 - ¿Qué son los operadores?
 - ¿Por qué al final todo es un valor?
 - Etc, etc.
-
+> Volvamos al capítulo anterior y a la introducción de esta serie. Sabemos que construir un modelo mental sólido de las cosas te permitirá 
+hacer las preguntas correctas en cualquier situación en la que te encuentres. A lo largo de estos artículos, cuestionaré algunos conceptos 
+clave para ayudarte a construir un esquema más preciso. No te preocupes, no soy un gurú, ¡también tengo muchas dudas y las vamos a explorar 
+juntos! Si quieres seguir aprendiendo y descubriendo junto a mí, ¡sigue leyendo!
