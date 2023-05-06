@@ -87,9 +87,10 @@ juntos! Si quieres seguir aprendiendo y descubriendo junto a mí, ¡sigue leyend
 
 En el siguiente capítulo exploraremos un concepto base: el concepto de `Sistema de tipos`, te dejo el concepto aquía abajo por si te me quieres adelantar:
 
-> Benjamin C. Pierce
-A type system is a tractable syntactic method for proving the absence of certain program behaviors by classifying phrases according to the kinds of values they compute. [en]
-Un sistema de tipos es un método sintáctico manejable para probar la ausencia de ciertos comportamientos del programa mediante la clasificación de frases según los tipos de valores que calculan. [es]
+Benjamin C. Pierce
+> A type system is a tractable syntactic method for proving the absence of certain program behaviors by classifying phrases according to the kinds of values they compute. [en]
+
+> Un sistema de tipos es un método sintáctico manejable para probar la ausencia de ciertos comportamientos del programa mediante la clasificación de frases según los tipos de valores que calculan. [es]
 
 ---
 `//> Si estas interesado en colaborar conmigo en esta investigación o te gusta mi contenido puedes seguirme en mis redes sociales. Siempre 
