@@ -21,7 +21,11 @@ conduzcan a un resultado correcto (reduciendo el margen de ambigüedad).
 
 > Este artículo está diseñado para hacer notar la importancia de construir un entorno de evaluación adecuado para la validación de resultados (si eres programador, 
 entenderás hasta aquí). Si no lo eres, déjame explicarte con otras palabras ya que posiblemente encontrarás útil lo que intento explicar. A lo que se le llama entorno 
-en el lenguaje común, suele llamarse `contexto`. Como sabrás, en un ejemplo práctico, dar una opinión acertada sobre un tema del que se sabe poco resulta ser muy difícil, 
+en el lenguaje común, suele llamarsele `contexto`. Como sabrás, en un ejemplo práctico, dar una opinión acertada sobre un tema del que se sabe poco resulta ser muy difícil, 
 debido a que no hay una base sólida sobre la cual construir juicios que tengan valor y que estén respaldados (validados).
+
+Como sabrás la computación (a nivel más básico) no sabe de sarcasmo, es decir todo se lo toma literal cuando las instrucciones llegan a su sistema de procesamiento.
+En su sistema de construcción de operaciones solo entiende dos estados, encendido y apagado, polarizado negativo o polarizado positivo, 0 o 1, asi que, jamás se dice así mismo 
+"..a es un zero en una representación de uno", es un zero o un uno así de simple.
 
 Todo desarrollo de software pasa por un ambiente controlado, el cual permite evaluar los procesos antes de ser puestos en un ambiente de producción.
