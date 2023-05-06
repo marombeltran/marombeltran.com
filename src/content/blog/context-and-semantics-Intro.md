@@ -2,7 +2,7 @@
 title: El contexto y la semántica
 author: marombeltran
 pubDatetime: 2023-04-15T10:59:19Z
-postSlug: context-and-semantics
+postSlug: context-and-semantics-intro
 featured: true
 draft: false
 tags:
@@ -15,8 +15,7 @@ description: El programador es un individuo meticuloso y creativo. Le gusta romp
 creyendo que tiene el poder para cambiar el mundo que le rodea. Alguien que siempre está evolucionando de forma creativa.."
 
 El texto precedente puede parecer arrogante, sin embargo, es un sentimiento generalizado entre aquellos dedicados a la 
-programación. El arte de programar es algo que cualquier persona puede dominar en un lapso razonable, y personalmente, 
-sostengo que todos deberíamos adquirir habilidades en este campo, aunque no sea de manera profesional.
+programación. El arte de programar es algo que cualquier persona puede dominar en un lapso razonable, con dedicación y persistencia.
 
 Sin embargo, el enfoque de esta temática no radica en el aprendizaje particular del arte de programar, sino más bien en los beneficios 
 que adquirimos al desarrollar tales habilidades.
@@ -66,6 +65,6 @@ que activa el cerebro.
 > Es decir, todo entorno tiene sus reglas, limitaciones y elementos que no podemos comprender sin detenernos unos minutos a observarlos con una actitud 
 más general y perceptiva. Precisamente sobre esto quiero hablar cuando menciono las palabras 'contexto', 'semántica' y 'modelo mental'.
 
-`//> Si te ha gustado la introducción a este tema, espera la segunda parte que estará disponible mañana. Entiendo que puede ser difícil abarcar todo de 
+`//> Si te ha gustado la introducción a este tema, espera la segunda parte que estará disponible en los próximos días. Entiendo que puede ser difícil abarcar todo de 
 una sola vez sin aburrirte, así que no te preocupes. He preparado todo para que puedas disfrutar y aprender sin sobrecargarte. Espero verte nuevamente 
 aquí mañana, que tengas un buen día ..`
