@@ -27,8 +27,6 @@ debido a que no hay una base sólida sobre la cual construir juicios que tengan 
 Como sabrás, en el nivel más básico de la computación, no se reconoce el sarcasmo. Es decir, todo se interpreta literalmente cuando las instrucciones llegan al sistema 
 de procesamiento. En su construcción de operaciones, solo se comprenden dos estados: encendido y apagado, polarizado negativo o positivo, 0 o 1, etc. 
 Por lo tanto, nunca se dice que "a es un cero en una representación de uno", sino simplemente que es un cero o un uno. Esto es así porque los elementos básicos de 
-información y almacenamiento en este nivel son los que permitirán construir sistemas lógicos más complejos, que serán la base para otros sistemas de un nivel de 
+información y almacenamiento en este nivel son los que permitirán construir `sistemas` lógicos más complejos, que serán la base para otros sistemas de un nivel de 
 abstracción superior. Por lo tanto, el resultado de una operación en este punto no puede tener un margen mínimo de ambigüedad, ya que los 0 y 1 son la materia 
 prima para la construcción de un entorno que amplíe las posibilidades (operaciones lógicas más complejas), `construcción de reglas` matemáticas en su escencia.
-
-Todo desarrollo de software pasa por un ambiente controlado, el cual permite evaluar los procesos antes de ser puestos en un ambiente de producción.
