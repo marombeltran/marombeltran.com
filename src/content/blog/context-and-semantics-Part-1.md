@@ -29,6 +29,6 @@ de procesamiento. En su construcción de operaciones, solo se comprenden dos est
 Por lo tanto, nunca se dice que "a es un cero en una representación de uno", sino simplemente que es un cero o un uno. Esto es así porque los elementos básicos de 
 información y almacenamiento en este nivel son los que permitirán construir sistemas lógicos más complejos, que serán la base para otros sistemas de un nivel de 
 abstracción superior. Por lo tanto, el resultado de una operación en este punto no puede tener un margen mínimo de ambigüedad, ya que los 0 y 1 son la materia 
-prima para la construcción de un entorno que amplíe las posibilidades (operaciones lógicas más complejas).
+prima para la construcción de un entorno que amplíe las posibilidades (operaciones lógicas más complejas), `construcción de reglas` matemáticas en su escencia.
 
 Todo desarrollo de software pasa por un ambiente controlado, el cual permite evaluar los procesos antes de ser puestos en un ambiente de producción.
