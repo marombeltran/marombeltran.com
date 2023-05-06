@@ -57,7 +57,7 @@ Si sucediera lo contrario, estaríamos ante una anomalía en la matrix :).
 
 Como programador me imagino que haz hecho las siguiente preguntas:
 - ¿Qué es un tipo de dato y cómo se construyen?
-- ¿Qué sucede cuando hago un casting de un dato un int a un char?
+- ¿Qué sucede cuando hago un casting de un dato int a un char?
 - ¿Qué es una bifurcación?
 - ¿Qué es una variable (dejando de lado lo que nos han enseñado)?
 - ¿Por qué una constante no se puede modificar una vez inicializada?
