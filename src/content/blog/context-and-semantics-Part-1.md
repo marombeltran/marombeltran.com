@@ -81,5 +81,5 @@ No te preocupes, no soy un gurú, ¡también tengo muchas dudas y las vamos a ex
 juntos! Si quieres seguir aprendiendo y descubriendo junto a mí, ¡sigue leyendo esta serie de artículos!
 
 ---
-Si estas interesado en colaborar conmigo en esta investigación o te gusta mi contenido puedes seguirme, y contactarme en mis redes sociales, siempre 
-será un placer hablar sobre tecnología. Saludos!
+`//> Si estas interesado en colaborar conmigo en esta investigación o te gusta mi contenido puedes seguirme en mis redes sociales. Siempre 
+es un placer hablar sobre tecnología. Saludos!`
