@@ -45,6 +45,10 @@ por ejemplo. Si ignoramos estas leyes, nos exponemos a sufrir graves consecuenci
 creamos rutinas que nos llevan a lograr ciertos resultados, siempre dentro de esas posibilidades. Es por eso que la reproducción efectiva de estas rutinas 
 conduce inequívocamente al mismo resultado bajo las mismas condiciones.
 
-Las ciencias de la computación se basan en un lenguaje y leyes matemáticas complejas, pero no entraré en ese tema en este momento. Lo que es importante 
-destacar es que, para aprender el arte de programar, es vital comprender las leyes que rigen la manipulación de este entorno, así como la semántica de cada 
-elemento involucrado de manera correcta. Moverse en este entorno requiere conocer las leyes básicas para la construcción, arquitectura y arte en su entorno.
+Las ciencias de la computación se basan en un lenguaje matemático y leyes complejas, pero no entraré en ese tema en este momento. Lo que es importante 
+destacar es que, `para aprender el arte de programar, es vital comprender las reglas que rigen la movilidad y manipulación de este entorno.`. 
+La pregunta es: ¿Qué es lo que puedo hacer y qué no? Cuando nos movemos y actuamos en nuestra vida diaria en nuestro entorno, casi todo resulta fácil 
+de realizar siempre y cuando actuemos dentro de lo que es posible, ¿verdad? Pero si de repente se te ocurre algo que no es posible (que no está dentro de 
+las posibilidades), simplemente estás limitado no porque no puedas pensarlo, sino porque el ambiente no te brinda las condiciones para ejecutar esa acción. 
+Si sucediera lo contrario, estaríamos ante una anomalía en la matrix :). 
+
