@@ -16,7 +16,7 @@ Todos tenemos un modelo mental de las cosas, tal vez no se corresponda directame
 es la correcta. El tema es que tenemos una construcción semántica de todo a lo que estamos expuestos por experiencia propia. 
 
 Cuando comenzamos a pensar en términos más elementales de la construcción de significados para nuestro entendimiento sobre una situación, podemos darnos 
-cuenta de que asignar los significados correctos a las cosas es más útil de lo que pensamos, ya que esto nos permite evaluar proposiciones lógicas (más complejas) que nos 
+cuenta de que asignar los significados correctos a las cosas es más útil de o que pensamos, ya que esto nos permite evaluar proposiciones lógicas (más complejas) que nos 
 conduzcan a un resultado correcto (reduciendo el margen de ambigüedad).
 
 > Este artículo está diseñado para hacer notar la importancia de construir un entorno de evaluación adecuado para la validación de resultados (si eres programador, 
@@ -25,7 +25,10 @@ en el lenguaje común, suele llamarsele `contexto`. Como sabrás, en un ejemplo 
 debido a que no hay una base sólida sobre la cual construir juicios que tengan valor y que estén respaldados (validados).
 
 Como sabrás, en el nivel más básico de la computación, no se reconoce el sarcasmo. Es decir, todo se interpreta literalmente cuando las instrucciones llegan al sistema 
-de procesamiento. En su construcción de operaciones, solo se comprenden dos estados: encendido y apagado, polarizado negativo o positivo, 0 o 1, entre otros. 
-Por lo tanto, nunca se dice que "a es un cero en una representación de uno", sino simplemente que es un cero o un uno.
+de procesamiento. En su construcción de operaciones, solo se comprenden dos estados: encendido y apagado, polarizado negativo o positivo, 0 o 1, etc. 
+Por lo tanto, nunca se dice que "a es un cero en una representación de uno", sino simplemente que es un cero o un uno. Esto es así porque los elementos básicos de 
+información y almacenamiento en este nivel son los que permitirán construir sistemas lógicos más complejos, que serán la base para otros sistemas de un nivel de 
+abstracción superior. Por lo tanto, el resultado de una operación en este punto no puede tener un margen mínimo de ambigüedad, ya que los 0 y 1 son la materia 
+prima para la construcción de un entorno que amplíe las posibilidades (operaciones lógicas más complejas).
 
 Todo desarrollo de software pasa por un ambiente controlado, el cual permite evaluar los procesos antes de ser puestos en un ambiente de producción.
