@@ -73,7 +73,7 @@ a = 0;
 Volvamos al capítulo anterior y a la introducción de este.
 > Como habrás notado en estos dos artículos, construir un modelo mental sólido del contexto y los elementos de construcción te 
 permitirá crear un entorno mental de ejecución lo más preciso posible para que puedas leer y ejecutar el código (mentalmente) en un solo vistazo, 
-sin necesidad de compilarlo o interpretarlo para conocer su resultado. Además, te permitirá formular las preguntas correctas 
+sin necesidad de compilarlo o interpretarlo en un sistema de cómputo electrónico para conocer su resultado. Además, te permitirá formular las preguntas correctas 
 en cualquier situación relacionada con la programación en la que te encuentres atascado (algo que suele suceder).
 
 A lo largo de estos artículos, cuestionaré algunos conceptos clave para ayudarte a construir un esquema más preciso. 
