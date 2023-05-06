@@ -19,7 +19,7 @@ Cuando comenzamos a pensar en términos más elementales de la construcción de 
 cuenta de que asignar los significados correctos a las cosas es más útil de lo que pensamos, ya que esto nos permite evaluar proposiciones lógicas (más complejas) que nos 
 conduzcan a un resultado correcto (reduciendo el margen de ambigüedad).
 
-Este artículo está diseñado para hacer notar la importancia de construir un entorno de evaluación adecuado para la validación de resultados (si eres programador, 
+> Este artículo está diseñado para hacer notar la importancia de construir un entorno de evaluación adecuado para la validación de resultados (si eres programador, 
 entenderás hasta aquí). Si no lo eres, déjame explicarte con otras palabras ya que posiblemente encontrarás útil lo que intento explicar. A lo que se le llama entorno 
 en el lenguaje común, suele llamarse `contexto`. Como sabrás, en un ejemplo práctico, dar una opinión acertada sobre un tema del que se sabe poco resulta ser muy difícil, 
 debido a que no hay una base sólida sobre la cual construir juicios que tengan valor y que estén respaldados (validados).
