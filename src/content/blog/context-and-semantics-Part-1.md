@@ -13,8 +13,10 @@ description: Hemos visto en el capítulo introductorio que la programación nos 
   interna y subjetiva que utilizamos para entender el mundo que nos rodea", entendiendo por modelo mental como ambiente de ejecución...
 ---
 Todos tenemos un modelo mental de las cosas, tal vez no se corresponda directamente con la realidad, ya que a veces es difícil estar seguros si nuestra percepción 
-es la correcta. El tema es que tenemos una construcción semántica de todo a lo que estamos expuestos por experiencia propia. Cuando comenzamos a pensar en términos 
-más elementales de la construcción de significados para nuestro entendimiento sobre una situación, podemos darnos cuenta de que asignar los significados correctos 
-a las cosas es más útil de lo que pensamos, ya que esto nos permite evaluar proposiciones lógicas que nos conduzcan a un resultado correcto.
+es la correcta. El tema es que tenemos una construcción semántica de todo a lo que estamos expuestos por experiencia propia. 
+
+Cuando comenzamos a pensar en términos más elementales de la construcción de significados para nuestro entendimiento sobre una situación, podemos darnos 
+cuenta de que asignar los significados correctos a las cosas es más útil de lo que pensamos, ya que esto nos permite evaluar proposiciones lógicas (más complejas) que nos 
+conduzcan a un resultado correcto (reduciendo el margen de ambigüedad).
 
 Todo desarrollo de software pasa por un ambiente controlado, el cual permite evaluar los procesos antes de ser puestos en un ambiente de producción.
