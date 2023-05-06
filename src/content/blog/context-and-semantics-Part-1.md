@@ -46,9 +46,25 @@ creamos rutinas que nos llevan a lograr ciertos resultados, siempre dentro de es
 conduce inequívocamente al mismo resultado bajo las mismas condiciones.
 
 Las ciencias de la computación se basan en un lenguaje matemático y leyes complejas, pero no entraré en ese tema en este momento. Lo que es importante 
-destacar es que, `para aprender el arte de programar, es vital comprender las reglas que rigen la movilidad y manipulación de este entorno.`. 
+destacar es que, `para aprender el arte de programar, es vital comprender las reglas que rigen la movilidad y manipulación de este entorno`. 
 La pregunta es: ¿Qué es lo que puedo hacer y qué no? Cuando nos movemos y actuamos en nuestra vida diaria en nuestro entorno, casi todo resulta fácil 
 de realizar siempre y cuando actuemos dentro de lo que es posible, ¿verdad? Pero si de repente se te ocurre algo que no es posible (que no está dentro de 
 las posibilidades), simplemente estás limitado no porque no puedas pensarlo, sino porque el ambiente no te brinda las condiciones para ejecutar esa acción. 
 Si sucediera lo contrario, estaríamos ante una anomalía en la matrix :). 
+
+Como programador me imagino que haz hecho las siguiente preguntas:
+- ¿Qué es un tipo dato y cómo se construyen?
+- ¿Qué sucede cuando hago casting?
+- ¿Qué es una bifurcación?
+- ¿Qué es una variable (dejando de lado lo que nos han enseñado)?
+- ¿Por qué una constante no se puede modificar una vez inicializada?
+- ¿Cómo se interpreta la siguiente operación? 
+`let a = 10;
+let b = a;
+a = 0;`
+- ¿Qué le da consistencia a ese resultado, no importando el número de veces que lo ejecute?
+- ¿Existen leyes que le den consistencia para que siempre sea el mismo valor?
+- ¿Qué son los operadores?
+- ¿Por qué al final todo es un valor?
+- Etc, etc.
 
