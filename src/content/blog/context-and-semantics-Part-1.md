@@ -20,16 +20,18 @@ cuenta de que asignar los significados correctos a las cosas es más útil de o 
 conduzcan a un resultado correcto (reduciendo el margen de ambigüedad).
 
 > Este artículo está diseñado para hacer notar la importancia de construir un entorno de evaluación adecuado para la validación de resultados (si eres programador, 
-entenderás hasta aquí). Si no lo eres, déjame explicarte con otras palabras ya que posiblemente encontrarás útil lo que intento explicar. A lo que se le llama entorno 
-en el lenguaje común, suele llamarsele `contexto`. Como sabrás, en un ejemplo práctico, dar una opinión acertada sobre un tema del que se sabe poco resulta ser muy difícil, 
+entenderás hasta aquí). Si no lo eres, déjame explicarte con otras palabras ya que posiblemente encontrarás útil lo que intento explicar. A lo que se le llama entorno en este párrafo, 
+en el lenguaje común suele llamarsele `contexto`. Como sabrás, en un ejemplo práctico, dar una opinión acertada sobre un tema del que se sabe poco resulta ser muy difícil, 
 debido a que no hay una base sólida sobre la cual construir juicios que tengan valor y que estén respaldados (validados).
 
-Como sabrás, en el nivel más básico de la computación, no se reconoce el sarcasmo. Es decir, todo se interpreta literalmente cuando las instrucciones llegan al sistema 
-de procesamiento. En su construcción de operaciones, solo se comprenden dos estados: encendido y apagado, polarizado negativo o positivo, 0 o 1, etc. 
+Como dicen por hay, el nivel más básico de la computación no se reconoce el sarcasmo; en realidad es lo que yo digo ;). 
+Es decir, todo se interpreta literalmente cuando las instrucciones llegan al 
+sistema de procesamiento. En su conjunto de operaciones, solo se comprenden dos estados: encendido y apagado, polarizado negativo o positivo, 0 o 1, etc. 
 Por lo tanto, nunca se dice que "a es un cero en una representación de uno", sino simplemente que es un cero o un uno. Esto es así porque los elementos básicos de 
-información y almacenamiento en este nivel son los que permitirán construir `sistemas` lógicos más complejos, que serán la base para otros sistemas de un nivel de 
-abstracción superior. Por lo tanto, el resultado de una operación en este punto no puede tener un margen mínimo de ambigüedad, ya que los 0 y 1 son la materia 
-prima para la construcción de un entorno que amplíe las posibilidades (operaciones lógicas más complejas), `construcción de reglas` matemáticas en su escencia.
+de construcción en este nivel son los que permitirán elaborar `sistemas` lógicos más complejos (en conjunto con los transistores a nivel electrónico), que serán la 
+base para otros sistemas de un nivel de abstracción superior. Por lo tanto, el resultado de una operación en este punto no puede tener un margen mínimo de ambigüedad, 
+ya que los 0 y 1 son la materia prima para la construcción de un entorno que amplíe las posibilidades (operaciones lógicas más complejas), `construcción de reglas` 
+matemáticas en su escencia.
 
 Si has notado, en esencia estamos hablando de sistemas y la construcción de reglas para crear más sistemas, que a su vez son reglas para otros sistemas (no es una 
 broma, que quede claro que soy una persona seria, jajaja). A partir de cualquier conjunto de reglas que componen un sistema, podemos crear algo maravilloso que se 
