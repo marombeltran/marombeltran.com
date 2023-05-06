@@ -24,8 +24,8 @@ entenderás hasta aquí). Si no lo eres, déjame explicarte con otras palabras y
 en el lenguaje común, suele llamarsele `contexto`. Como sabrás, en un ejemplo práctico, dar una opinión acertada sobre un tema del que se sabe poco resulta ser muy difícil, 
 debido a que no hay una base sólida sobre la cual construir juicios que tengan valor y que estén respaldados (validados).
 
-Como sabrás la computación (a nivel más básico) no sabe de sarcasmo, es decir todo se lo toma literal cuando las instrucciones llegan a su sistema de procesamiento.
-En su sistema de construcción de operaciones solo entiende dos estados, encendido y apagado, polarizado negativo o polarizado positivo, 0 o 1, asi que, jamás se dice así mismo 
-"..a es un zero en una representación de uno", es un zero o un uno así de simple.
+Como sabrás, en el nivel más básico de la computación, no se reconoce el sarcasmo. Es decir, todo se interpreta literalmente cuando las instrucciones llegan al sistema 
+de procesamiento. En su construcción de operaciones, solo se comprenden dos estados: encendido y apagado, polarizado negativo o positivo, 0 o 1, entre otros. 
+Por lo tanto, nunca se dice que "a es un cero en una representación de uno", sino simplemente que es un cero o un uno.
 
 Todo desarrollo de software pasa por un ambiente controlado, el cual permite evaluar los procesos antes de ser puestos en un ambiente de producción.
