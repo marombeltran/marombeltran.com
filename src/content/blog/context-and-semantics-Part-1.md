@@ -33,8 +33,18 @@ base para otros sistemas de un nivel de abstracción superior. Por lo tanto, el 
 ya que los 0 y 1 son la materia prima para la construcción de un entorno que amplíe las posibilidades (operaciones lógicas más complejas), `construcción de reglas` 
 matemáticas en su escencia.
 
-Si has notado, en esencia estamos hablando de sistemas y la construcción de reglas para crear más sistemas, que a su vez son reglas para otros sistemas (no es una 
-broma, que quede claro que soy una persona seria, jajaja). A partir de cualquier conjunto de reglas que componen un sistema, podemos crear algo maravilloso que se 
-llama algoritmo. Sabemos que usamos algoritmos todo el tiempo, nuestra interpretación subjetiva funciona sobre el conjunto de muchos subsistemas, cada uno de los 
-cuales aplica algoritmos a su propio nivel. A este proceso se le llama emulación de sistemas: ejecutamos un sistema sobre otro aplicando algoritmos para dar una 
-interpretación o significado final a las cosas.
+Si has prestado atención al último párrafo, en esencia estamos hablando de sistemas y de la construcción de reglas para crear más sistemas, que a su vez son la base para otros 
+sistemas (no es una broma, quiero dejar claro que soy una persona seria, jajaja). A partir de cualquier conjunto de reglas que componen un sistema, podemos 
+crear algo maravilloso que se llama algoritmo. Los algoritmos son herramientas que usamos todo el tiempo, nuestra interpretación subjetiva funciona sobre 
+el conjunto de muchos subsistemas, cada uno de los cuales aplica algoritmos a su propio nivel. A este proceso se le llama emulación de sistemas: ejecutamos 
+un sistema sobre otro, aplicando algoritmos para dar una interpretación o significado final a las cosas.
+
+Bien, después de explicar esta complejidad, quisiera presentarte un ejemplo más comprensible: vivimos y operamos en sistemas que están construidos con reglas. 
+Cada uno de estos sistemas tiene un conjunto de reglas o leyes que les dan sentido, coherencia y consistencia a nuestro entorno, como la ley de la gravedad, 
+por ejemplo. Si ignoramos estas leyes, nos exponemos a sufrir graves consecuencias o descubrir algo impredecible para nuestra experiencia. A partir de ahí, 
+creamos rutinas que nos llevan a lograr ciertos resultados, siempre dentro de esas posibilidades. Es por eso que la reproducción efectiva de estas rutinas 
+conduce inequívocamente al mismo resultado bajo las mismas condiciones.
+
+Las ciencias de la computación se basan en un lenguaje y leyes matemáticas complejas, pero no entraré en ese tema en este momento. Lo que es importante 
+destacar es que, para aprender el arte de programar, es vital comprender las leyes que rigen la manipulación de este entorno, así como la semántica de cada 
+elemento involucrado de manera correcta. Moverse en este entorno requiere conocer las leyes básicas para la construcción, arquitectura y arte en su entorno.
