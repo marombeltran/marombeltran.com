@@ -59,22 +59,27 @@ Como programador me imagino que haz hecho las siguiente preguntas:
 - ¿Qué es una variable (dejando de lado lo que nos han enseñado)?
 - ¿Por qué una constante no se puede modificar una vez inicializada?
 - ¿Cómo se interpreta la siguiente operación? 
-`js
+```ts
 let a = 10;
 let b = a;
 a = 0;
-`
+```
 - ¿Qué le da consistencia a ese resultado, no importando el número de veces que lo ejecute?
 - ¿Existen leyes que le den consistencia para que siempre sea el mismo valor?
 - ¿Qué son los operadores?
 - ¿Por qué al final todo es un valor?
 - Etc, etc.
 
-> Volvamos al capítulo anterior y a la introducción de esta serie. Sabemos que construir un modelo mental sólido de las cosas te 
-permitirá crear un entorno de ejecución mental lo más acertado posible para que puedas leer y ejecutar el código (mentalmente) 
+Volvamos al capítulo anterior y a la introducción de este.
+> Como habrás notado en estos dos artículos, construir un modelo mental sólido del contexto y los elementos de construcción te 
+permitirá crear un entorno mental de ejecución lo más preciso posible para que puedas leer y ejecutar el código (mentalmente) en un solo vistazo, 
 sin necesidad de compilarlo o interpretarlo para conocer su resultado. Además, te permitirá formular las preguntas correctas 
 en cualquier situación relacionada con la programación en la que te encuentres atascado (algo que suele suceder).
 
 A lo largo de estos artículos, cuestionaré algunos conceptos clave para ayudarte a construir un esquema más preciso. 
 No te preocupes, no soy un gurú, ¡también tengo muchas dudas y las vamos a explorar 
 juntos! Si quieres seguir aprendiendo y descubriendo junto a mí, ¡sigue leyendo esta serie de artículos!
+
+---
+Si estas interesado en colaborar conmigo en esta investigación o te gusta mi contenido puedes seguirme, y contactarme en mis redes sociales, siempre 
+será un placer hablar sobre tecnología. Saludos!
