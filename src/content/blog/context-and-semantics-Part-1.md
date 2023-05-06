@@ -81,9 +81,15 @@ en cualquier situación relacionada con la programación en la que te encuentres
 Además, decirte que corregir un modelo mental erroneo del contexto y los elementos de construcción te permitirá visualizar de una forma consciente lo que 
 haces en tu día a día como codificador.
 
-A lo largo de estos artículos, cuestionaré algunos conceptos clave para ayudarte a construir un esquema más preciso. 
+A lo largo de estos artículos, cuestionaré algunos conceptos clave, como los mencionados anteriormente, para ayudarte a construir un esquema más preciso. 
 No te preocupes, no soy un gurú, ¡también tengo muchas dudas y las vamos a explorar 
 juntos! Si quieres seguir aprendiendo y descubriendo junto a mí, ¡sigue leyendo esta serie de artículos!
+
+En el siguiente capítulo exploraremos un concepto base: el concepto de `Sistema de tipos`, te dejo el concepto aquía abajo por si te me quieres adelantar:
+
+> Benjamin C. Pierce
+A type system is a tractable syntactic method for proving the absence of certain program behaviors by classifying phrases according to the kinds of values they compute. [en]
+Un sistema de tipos es un método sintáctico manejable para probar la ausencia de ciertos comportamientos del programa mediante la clasificación de frases según los tipos de valores que calculan. [es]
 
 ---
 `//> Si estas interesado en colaborar conmigo en esta investigación o te gusta mi contenido puedes seguirme en mis redes sociales. Siempre 
