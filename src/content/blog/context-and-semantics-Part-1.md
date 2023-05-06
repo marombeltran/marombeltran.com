@@ -30,3 +30,9 @@ Por lo tanto, nunca se dice que "a es un cero en una representación de uno", si
 información y almacenamiento en este nivel son los que permitirán construir `sistemas` lógicos más complejos, que serán la base para otros sistemas de un nivel de 
 abstracción superior. Por lo tanto, el resultado de una operación en este punto no puede tener un margen mínimo de ambigüedad, ya que los 0 y 1 son la materia 
 prima para la construcción de un entorno que amplíe las posibilidades (operaciones lógicas más complejas), `construcción de reglas` matemáticas en su escencia.
+
+Si haz notado en escencia estamos hablando de sistemas y construcción de reglas para construcción de más sistemas que a su vez son reglas para otros sistema (no es 
+un chiste he, que quede claro que soy una persona seria ja ja ja ja), a partir de cualquier conjunto de reglas que componen un sistema podemos crear algo maravilloso que 
+se llama algoritmo. Sabes que usamos algoritmos todo el tiempo, nuestra interpretación subjetiva funciona sobre el cúmulo de un montón de subsitemas que en cada nivel 
+aplica algoritmos, a este proceso se le llama emulación de sistemas, ejecutamos un sistema sobre otro aplicando algoritmos para dar una interpretación o significado 
+final de las cosas.
