@@ -19,6 +19,18 @@ export const LOGO_IMAGE = {
 
 export const SOCIALS: SocialObjects = [
   {
+    name: "Twitter",
+    href: "https://twitter.com/marom_beltran",
+    linkTitle: `${SITE.title} en Twitter`,
+    active: true,
+  },
+  {
+    name: "YouTube",
+    href: "https://youtube.com/@marombeltran",
+    linkTitle: `${SITE.title} en YouTube`,
+    active: true,
+  },
+  {
     name: "Github",
     href: "https://github.com/marombeltran",
     linkTitle: ` ${SITE.title} en Github`,
@@ -35,17 +47,5 @@ export const SOCIALS: SocialObjects = [
     href: "mailto:mrmbeltran@proton.me",
     linkTitle: `Enviar email a ${SITE.title}`,
     active: true,
-  },
-  {
-    name: "Twitter",
-    href: "https://twitter.com/marom_beltran",
-    linkTitle: `${SITE.title} en Twitter`,
-    active: true,
-  },
-  {
-    name: "YouTube",
-    href: "https://youtube.com/@marombeltran",
-    linkTitle: `${SITE.title} en YouTube`,
-    active: true,
-  },
+  }
 ];
