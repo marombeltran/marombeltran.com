@@ -12,8 +12,9 @@ description: Hemos visto en el capítulo introductorio que la programación nos 
   funcionan las cosas en un ambiente de ejecución controlado. Aunque lo digimos en palabras como estas "un modelo mental se refiere a una representación 
   interna y subjetiva que utilizamos para entender el mundo que nos rodea", entendiendo por modelo mental como ambiente de ejecución...
 ---
-Todos tenemos un modelo mental de las cosas, tal vez no se corresponda directamente con la realidad, ya que a veces es difícil estar seguros si nuestra percepción 
-es la correcta. El tema es que tenemos una construcción semántica de todo a lo que estamos expuestos por experiencia propia. 
+Todos poseemos un modelo mental de las cosas, aunque en ocasiones este puede no corresponderse directamente con ellas y resultar difícil estar seguros 
+de si nuestra percepción es correcta. Sin embargo, es importante tener en cuenta que nuestra experiencia personal nos permite construir una interpretación 
+semántica de todo lo que nos rodea. Y de esto trata este capítulo.
 
 Cuando comenzamos a pensar en términos más elementales de la construcción de significados para nuestro entendimiento sobre una situación o cosa, podemos darnos 
 cuenta de que asignar los significados correctos a las cosas es más útil de o que pensamos, ya que esto nos permite evaluar proposiciones lógicas (más complejas) que nos 
@@ -75,6 +76,8 @@ Volvamos al capítulo anterior y a la introducción de este.
 permitirá crear un entorno mental de ejecución lo más preciso posible para que puedas leer y ejecutar el código (mentalmente) en un solo vistazo, 
 sin necesidad de compilarlo o interpretarlo en un sistema de cómputo electrónico para conocer su resultado. Además, te permitirá formular las preguntas correctas 
 en cualquier situación relacionada con la programación en la que te encuentres atascado (algo que suele suceder).
+Además, decirte que corregir un modelo mental erroneo del contexto y los elementos de construcción te permitirá visualizar de una forma consciente lo que 
+haces en tu día a día como codificador.
 
 A lo largo de estos artículos, cuestionaré algunos conceptos clave para ayudarte a construir un esquema más preciso. 
 No te preocupes, no soy un gurú, ¡también tengo muchas dudas y las vamos a explorar 
