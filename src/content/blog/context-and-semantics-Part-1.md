@@ -24,7 +24,7 @@ entenderás hasta aquí). Si no lo eres, déjame explicarte con otras palabras y
 en el lenguaje común suele llamarsele `contexto`. Como sabrás, en un ejemplo práctico, dar una opinión acertada sobre un tema del que se sabe poco resulta ser muy difícil, 
 debido a que no hay una base sólida sobre la cual construir juicios que tengan valor y que estén respaldados (validados).
 
-Como dicen por hay, en el nivel más básico de la computación no se reconoce el sarcasmo; en realidad es lo que yo digo ;). 
+Pero, regresemos al contexto que es la computación y al código. Bien decirte que en el nivel más básico de la computación no se reconoce el sarcasmo. 
 Es decir, todo se interpreta literalmente cuando las instrucciones llegan al 
 sistema de procesamiento. En su conjunto de operaciones, solo se comprenden dos estados: encendido y apagado, polarizado negativo o positivo, 0 o 1, etc. 
 Por lo tanto, nunca se dice que "a es un cero en una representación de uno", sino simplemente que es un cero o un uno. Esto es así porque los elementos básicos de 
@@ -68,6 +68,10 @@ a = 0;`
 - ¿Por qué al final todo es un valor?
 - Etc, etc.
 > Volvamos al capítulo anterior y a la introducción de esta serie. Sabemos que construir un modelo mental sólido de las cosas te permitirá 
-hacer las preguntas correctas en cualquier situación en la que te encuentres. A lo largo de estos artículos, cuestionaré algunos conceptos 
-clave para ayudarte a construir un esquema más preciso. No te preocupes, no soy un gurú, ¡también tengo muchas dudas y las vamos a explorar 
-juntos! Si quieres seguir aprendiendo y descubriendo junto a mí, ¡sigue leyendo!
+crear un entorno de ejecución mental lo más acertado para que puedas leer y correr el código (mentalmente) sin necesidad de correrlo en 
+un conpilador o intérprete para saber su resultado, además, para hacerte las preguntas correctas en cualquier situación sobre programación 
+en la que te encuentres atascado (algo que suele suceder).
+
+A lo largo de estos artículos, cuestionaré algunos conceptos clave para ayudarte a construir un esquema más preciso. 
+No te preocupes, no soy un gurú, ¡también tengo muchas dudas y las vamos a explorar 
+juntos! Si quieres seguir aprendiendo y descubriendo junto a mí, ¡sigue leyendo esta serie de artículos!
