@@ -12,7 +12,7 @@ description: Hemos visto en el capítulo introductorio que la programación nos 
   funcionan las cosas en un ambiente de ejecución controlado. Aunque lo digimos en palabras como estas "un modelo mental se refiere a una representación 
   interna y subjetiva que utilizamos para entender el mundo que nos rodea", entendiendo por modelo mental como ambiente de ejecución...
 ---
-Todos poseemos un modelo mental de las cosas, aunque en ocasiones este puede no corresponderse directamente con ellas y resultar difícil estar seguros 
+Todos poseemos un modelo mental de las cosas, aunque en ocasiones este puede no corresponderse directamente con ellas y resulta difícil estar seguros 
 de si nuestra percepción es correcta. Sin embargo, es importante tener en cuenta que nuestra experiencia personal nos permite construir una interpretación 
 semántica de todo lo que nos rodea. Y de esto trata este capítulo.
 
