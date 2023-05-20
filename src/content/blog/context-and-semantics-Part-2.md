@@ -32,6 +32,7 @@ el cuál implica comprender las capacidades y limitaciones del sistema.
 
 Pero, pero.., ¿Cómo sabe la computadora qué datos en binario deben ejecutarse y cuáles no .. if everthing is binary?.
 
+--- 
 A nivel bajo, de hardware y código de máquina, tanto la lógica del programa (el código) como los datos con los que opera se representan en forma de bits. 
 En este nivel, no existe una distinción clara entre el código y los datos, lo que puede llevar a errores cuando el sistema confunde uno con el otro. 
 Estos errores pueden variar desde bloqueos en el programa hasta vulnerabilidades de seguridad graves, en las cuales un atacante puede "engañar" al sistema para que ejecute sus datos de entrada como si fueran código.
@@ -64,6 +65,6 @@ ejecutar y qué datos representan otros tipos de información, como valores de d
 La "computadora" usa una combinación de hardware y software para distinguir entre diferentes tipos de datos. 
 Aquí hay algunos componentes clave involucrados :
 
-> [Aquí](https://marombeltran.com/posts/context-and-semantics-part-1-1) te dejo la parte tecnica, disfrutalo.
+> [Aquí](https://marombeltran.com/posts/context-and-semantics-part-1-1) te dejo la parte técnica, disfrutalo.
 
 Las instrucciones se almacenan en una secuencia y formato específicos, y la CPU sabe cómo interpretarlas y ejecutarlas correctamente.
