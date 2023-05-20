@@ -21,7 +21,8 @@ Nos movemos en este mundo sin orden ni coherencia, siendo solo observadores impo
 Es como sumergirse en un mar de 1's y 0's, donde todo carece de sentido. Estamos viendo los circuitos integrados y los millones de celdas de memoria,
 cada celda almacena un 1 o un 0, solo sabemos que son lineas y columnas de estos numeros, no hay diviciones que hagan bloques más grandes de estos, solo es un monton de celdas.
 
-![Figure 1](https://marombeltran.com/assets/bits.png)
+
+![Figure bits](https://marombeltran.com/assets/semantics-part-2-fig.0.png)
 
 Todo esto es una locura, cierto. Ahora que ya te hiciste una idea de lo que que sigue, me imagino que te estaras preguntando: 
 [`..bueno en realidad estamos hablando de un dispositivo de almacenamiento, cierto?`]. ¡Estas en lo correcto!, estamos hablando de un dispositivo de almacenamiento magnetico cualquiera; 
@@ -56,14 +57,19 @@ Más allá de distinguir entre código y datos, necesitamos saber cómo interpre
 La secuencia de 16 bits 1100001010100011 puede representar el entero de 16 bits sin signo 49827, el entero de 16 bits con signo -15709, el carácter codificado en UTF-8 '£', o algo completamente diferente. 
 El hardware en el que se ejecutan nuestros programas almacena todo como secuencias de bits, por lo que necesitamos una capa adicional para dar significado a estos datos.
 
-![Figure 1](https://marombeltran.com/assets/semantics-part-2-fig.1.png)
 Una secuencia de bits puede ser interpretada de muchas formas.
+![Figure bits whatever](https://marombeltran.com/assets/semantics-part-2-fig.1.png)
 
 Los tipos brindan significado a los datos y le indican a nuestro software cómo interpretar una secuencia específica de bits en un contexto dado, para que conserve el significado previsto. 
 Además, los tipos limitan el conjunto de valores válidos que una variable puede tomar. 
 Por ejemplo, un entero de 16 bits con signo puede representar cualquier valor entero entre -32768 y 32767, pero no más que eso. 
 La capacidad de restringir el rango de valores permitidos ayuda a evitar clases completas de errores al no permitir la aparición de valores no válidos durante la ejecución del programa. 
 Visualizar los tipos como conjuntos de valores posibles es fundamental para comprender muchos de los conceptos abordados en este post.
+
+> La secuencia de bits escrita como un entero de 16 bits con signo. 
+> La información de tipo (entero con signo de 16 bits) le dice al compilador y/o al tiempo de ejecución que la secuencia de bits representa un valor entero entre -32768 y 32767, asegurando la interpretación correcta como -15709.`
+
+![Figure 2](https://marombeltran.com/assets/semantics-part-2-fig.2.png)
 
 Además de distinguir entre código y datos, necesitamos saber cómo interpretar un fragmento de datos. 
 La secuencia de 16 bits 1100001010100011 puede representar el entero sin signo de 16 bits 49827, el entero con signo de 16 bits -15709, el carácter codificado en UTF-8 '£' o algo completamente diferente. 
