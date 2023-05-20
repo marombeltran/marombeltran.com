@@ -1,7 +1,7 @@
 ---
 title: El contexto y la semántica - Parte 2.1
 author: marombeltran
-pubDatetime: 2023-05-20T10:59:19Z
+pubDatetime: 2023-05-20T12:59:19Z
 postSlug: context-and-semantics-part-2-1
 featured: true
 draft: false
@@ -9,8 +9,8 @@ tags:
   - semantics
 ogImage: ""
 description:
-  La "computadora" usa una combinación de hardware y software para distinguir entre diferentes tipos de datos.
-  Aquí hay algunos componentes clave involucrados : ..
+  La computadora usa una combinación de hardware y software para distinguir entre diferentes tipos de datos.
+  Aquí hay algunos componentes clave involucrados ..
 ---
 La "computadora" usa una combinación de hardware y software para distinguir entre diferentes tipos de datos.
 Aquí hay algunos componentes clave involucrados :
