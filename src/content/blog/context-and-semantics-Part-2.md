@@ -8,16 +8,13 @@ draft: false
 tags:
   - semantics
 ogImage: ""
-description: El sistema de tipos es un tema de estudio considerado no importante para el aprendizaje de un lenguaje de programación, pero si nos detenemos a pensar un poco sobre su utilidad, 
-  nos damos cuenta de que su comprensión es esencial. Siempre que recurrimos a sus elementos, podemos apreciar su importancia en el desarrollo de software.
-  El sistema de tipos de un lenguaje de programación define los tipos de datos disponibles y las reglas que gobiernan su uso...
+description:
+  El sistema de tipos de un lenguaje de programación define los tipos de datos disponibles y las reglas que gobiernan su uso. 
+  Proporciona una forma de clasificar y organizar los datos, lo que ayuda a prevenir errores y garantizar la integridad de los programas...
 ---
-El sistema de tipos es un tema de estudio considerado no importante para el aprendizaje de un lenguaje de programación, pero si nos detenemos a pensar un poco sobre su utilidad, nos damos cuenta de que su comprensión es esencial. Siempre que recurrimos a sus elementos, podemos apreciar su importancia en el desarrollo de software.
+Nuestro mundo está diseñado bajo patrones, los encontramos en cualquier lugar, hasta en nuestras conductas y rutinas. Ya sea por comodidad 
+o porque constituyen un `standard` social, y lo hacemos para no parecer anormales. Pues bien, ahora daremos un paseo por un mundo en donde nada tiene coherencia, nada tiene sentido, 
+vez a todos los angulos y solo vez un monton de cosas sin sentido, un montón de 0's y 1's sin ninguna coherencia, solo andamos nadando en esto mundo
+sin ningún orden y nada de coherencia. Solo somos unos observadores ya que no podemos hacer más que nada.
 
-El sistema de tipos de un lenguaje de programación define los tipos de datos disponibles y las reglas que gobiernan su uso. Proporciona una forma de clasificar y organizar los datos, lo que ayuda a prevenir errores y garantizar la integridad de los programas.
-
-La comprensión del sistema de tipos nos permite detectar y corregir errores de tipo, como asignar un valor de un tipo incorrecto a una variable o realizar operaciones no válidas en determinados tipos. Además, nos brinda la capacidad de hacer un mejor diseño y estructuración del código, lo que facilita su mantenimiento y reutilización.
-
-Además, el sistema de tipos puede proporcionar beneficios en términos de rendimiento y optimización del código. Al conocer los tipos de datos utilizados en un programa, el compilador o intérprete puede aplicar técnicas de optimización específicas y generar un código más eficiente.
-
-En resumen, aunque a primera vista el sistema de tipos puede parecer un aspecto trivial o menos relevante del aprendizaje de un lenguaje de programación, su comprensión es esencial. Nos permite escribir código más robusto, evitar errores de tipo y optimizar el rendimiento del programa. Por lo tanto, es importante dedicar tiempo y esfuerzo a comprender y dominar el sistema de tipos de un lenguaje de programación.
+Son mares de 1's y 0's, sin ningun sentido. 

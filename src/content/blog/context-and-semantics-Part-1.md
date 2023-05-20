@@ -34,7 +34,7 @@ base para otros sistemas de un nivel de abstracción superior. Por lo tanto, el 
 ya que los 0 y 1 son la materia prima para la construcción de un entorno que amplíe las posibilidades (operaciones lógicas más complejas), `construcción de reglas` 
 matemáticas en su escencia.
 
-> [Aquí te dejo algo interesante](https://youtu.be/6avJHaC3C2U)
+> [Aquí](https://youtu.be/6avJHaC3C2U) te dejo algo interesante, disfrutalo.
 
 Si has prestado atención al último párrafo, en esencia estamos hablando de sistemas y de la construcción de reglas para crear más sistemas, que a su vez son la base para otros 
 sistemas (no es una broma, quiero dejar claro que soy una persona seria, jajaja). A partir de cualquier conjunto de reglas que componen un sistema, podemos 
