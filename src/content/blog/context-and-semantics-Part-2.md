@@ -50,6 +50,12 @@ console.log(eval("40+2"));
 console.log(eval("Hello world!"));
 ```
 
+Más allá de distinguir entre código y datos, necesitamos saber cómo interpretar un dato. 
+La secuencia de 16 bits 1100001010100011 puede representar el entero de 16 bits sin signo 49827, el entero de 16 bits con signo -15709, el carácter codificado en UTF-8 '£', o algo completamente diferente. 
+El hardware en el que se ejecutan nuestros programas almacena todo como secuencias de bits, por lo que necesitamos una capa adicional para dar significado a estos datos.
+
+img..
+
 Los tipos brindan significado a los datos y le indican a nuestro software cómo interpretar una secuencia específica de bits en un contexto dado, para que conserve el significado previsto. 
 Además, los tipos limitan el conjunto de valores válidos que una variable puede tomar. 
 Por ejemplo, un entero de 16 bits con signo puede representar cualquier valor entero entre -32768 y 32767, pero no más que eso. 
