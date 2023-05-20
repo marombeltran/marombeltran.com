@@ -37,6 +37,8 @@ formato binario. La computadora sigue un conjunto específico de reglas para det
 ejecutar y qué datos representan otros tipos de información, como valores de datos o direcciones.
 
 La "computadora" usa una combinación de hardware y software para distinguir entre diferentes tipos de datos. 
-Aquí hay algunos componentes clave involucrados : 
+Aquí hay algunos componentes clave involucrados :
+
+> [Aquí](https://marombeltran.com/posts/context-and-semantics-part-1-1) te dejo la parte tecnica, disfrutalo.
 
 Las instrucciones se almacenan en una secuencia y formato específicos, y la CPU sabe cómo interpretarlas y ejecutarlas correctamente.
