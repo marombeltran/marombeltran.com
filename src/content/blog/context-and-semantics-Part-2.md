@@ -12,7 +12,7 @@ description:
   El sistema de tipos de un lenguaje de programación define los tipos de datos disponibles y las reglas que gobiernan su uso. 
   Proporciona una forma de clasificar y organizar los datos, lo que ayuda a prevenir errores y garantizar la integridad de los programas...
 ---
-Nuestro mundo está lleno de patrones que se encuentran en todas partes, en nuestra naturaleza, incluso en nuestras conductas y rutinas. 
+Nuestro mundo está lleno de patrones que se encuentran en todas partes, en la naturaleza, incluso en nuestras conductas y rutinas. 
 Ya sea por comodidad o porque siguen normas sociales, seguimos estos patrones para evitar parecer diferentes. 
 Sin embargo, ahora nos adentraremos en un mundo en el que nada tiene coherencia ni sentido. 
 Observamos desde todos los ángulos y solo vemos un montón de cosas sin sentido, una mezcla caótica de 0's y 1's sin ninguna estructura lógica. 
@@ -20,6 +20,8 @@ Nos movemos en este mundo sin orden ni coherencia, siendo solo observadores impo
 
 Es como sumergirse en un mar de 1's y 0's, donde todo carece de sentido. Estamos viendo los circuitos integrados y los millones de celdas de memoria,
 cada celda almacena un 1 o un 0, solo sabemos que son lineas y columnas de estos numeros, no hay diviciones que hagan bloques más grandes de estos, solo es un monton de celdas.
+
+![Figure 1](https://marombeltran.com/assets/bits.png)
 
 Todo esto es una locura, cierto. Ahora que ya te hiciste una idea de lo que que sigue, me imagino que te estaras preguntando: 
 [`..bueno en realidad estamos hablando de un dispositivo de almacenamiento, cierto?`]. ¡Estas en lo correcto!, estamos hablando de un dispositivo de almacenamiento magnetico cualquiera; 
