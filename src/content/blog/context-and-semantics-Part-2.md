@@ -25,6 +25,16 @@ Todo esto es una locura, cierto. Ahora que ya te hiciste una idea de lo que que 
 [`..bueno en realidad estamos hablando de un dispositivo de almacenamiento, cierto?`]. ¡Estas en lo correcto!, estamos hablando de un dispositivo de almacenamiento magnetico cualquiera; 
 un Hard Disc, una Random Access Memory, o cualquier otra variante.
 
-Si recuerdas, en el artículo anterior hablabamos de sistemas, y sistemas sobre sistemas, luego hablamos de algoritmos, que es una capa superior al sistema, es un concepto más especializado, más formal. 
+Si recuerdas, en el artículo anterior hablabamos de sistemas, y sistemas sobre sistemas, luego hablamos de algoritmos, que es una capa superior al sistema, es un concepto más especializado, más formal,
+el cuál implica comprender las capacidades y limitaciones del sistema.
+
+...
 
 Pero, pero.., ¿Cómo sabe la computadora qué datos en binario deben ejecutarse y cuáles no?.
+
+Las computadoras ejecutan instrucciones almacenadas en la memoria y el procesador de la computadora interpreta estas instrucciones en 
+formato binario. La computadora sigue un conjunto específico de reglas para determinar qué datos binarios representan instrucciones a 
+ejecutar y qué datos representan otros tipos de información, como valores de datos o direcciones.
+
+La computadora usa una combinación de hardware y software para distinguir entre diferentes tipos de datos. 
+Aquí hay algunos componentes clave involucrados:
