@@ -33,6 +33,8 @@ el cuál implica comprender las capacidades y limitaciones del sistema.
 Pero, pero.., ¿Cómo sabe la computadora qué datos en binario deben ejecutarse y cuáles no .. if everthing is binary?.
 
 --- 
+### ¿Por qué existen los tipos de datos?
+
 A nivel bajo, de hardware y código de máquina, tanto la lógica del programa (el código) como los datos con los que opera se representan en forma de bits. 
 En este nivel, no existe una distinción clara entre el código y los datos, lo que puede llevar a errores cuando el sistema confunde uno con el otro. 
 Estos errores pueden variar desde bloqueos en el programa hasta vulnerabilidades de seguridad graves, en las cuales un atacante puede "engañar" al sistema para que ejecute sus datos de entrada como si fueran código.
