@@ -57,7 +57,8 @@ Más allá de distinguir entre código y datos, necesitamos saber cómo interpre
 La secuencia de 16 bits 1100001010100011 puede representar el entero de 16 bits sin signo 49827, el entero de 16 bits con signo -15709, el carácter codificado en UTF-8 '£', o algo completamente diferente. 
 El hardware en el que se ejecutan nuestros programas almacena todo como secuencias de bits, por lo que necesitamos una capa adicional para dar significado a estos datos.
 
-Una secuencia de bits puede ser interpretada de muchas formas.
+> Una secuencia de bits puede ser interpretada de muchas formas.
+
 ![Figure bits whatever](https://marombeltran.com/assets/semantics-part-2-fig.1.png)
 
 Los tipos brindan significado a los datos y le indican a nuestro software cómo interpretar una secuencia específica de bits en un contexto dado, para que conserve el significado previsto. 
@@ -67,7 +68,7 @@ La capacidad de restringir el rango de valores permitidos ayuda a evitar clases 
 Visualizar los tipos como conjuntos de valores posibles es fundamental para comprender muchos de los conceptos abordados en este post.
 
 > La secuencia de bits escrita como un entero de 16 bits con signo. 
-> La información de tipo (entero con signo de 16 bits) le dice al compilador y/o al tiempo de ejecución que la secuencia de bits representa un valor entero entre -32768 y 32767, asegurando la interpretación correcta como -15709.`
+> La información de tipo (entero con signo de 16 bits) le dice al compilador y/o al tiempo de ejecución que la secuencia de bits representa un valor entero entre -32768 y 32767, asegurando la interpretación correcta como -15709.
 
 ![Figure 2](https://marombeltran.com/assets/semantics-part-2-fig.2.png)
 
