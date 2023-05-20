@@ -32,6 +32,31 @@ el cuál implica comprender las capacidades y limitaciones del sistema.
 
 Pero, pero.., ¿Cómo sabe la computadora qué datos en binario deben ejecutarse y cuáles no .. if everthing is binary?.
 
+A nivel bajo, de hardware y código de máquina, tanto la lógica del programa (el código) como los datos con los que opera se representan en forma de bits. 
+En este nivel, no existe una distinción clara entre el código y los datos, lo que puede llevar a errores cuando el sistema confunde uno con el otro. 
+Estos errores pueden variar desde bloqueos en el programa hasta vulnerabilidades de seguridad graves, en las cuales un atacante puede "engañar" al sistema para que ejecute sus datos de entrada como si fueran código.
+
+Un ejemplo de este tipo de interpretación imprecisa es la función JavaScript eval(), que evalúa una cadena como código. 
+Funciona bien cuando la cadena proporcionada es un código JavaScript válido, pero provoca un error de tiempo de ejecución cuando no lo es, como se muestra en la siguiente lista.
+
+```javascript
+// Imprime “42” to the console
+console.log(eval("40+2")); 
+
+// Lanza “SyntaxError: unexpected token: identifier”
+console.log(eval("Hello world!"));
+```
+
+Los tipos brindan significado a los datos y le indican a nuestro software cómo interpretar una secuencia específica de bits en un contexto dado, para que conserve el significado previsto. 
+Además, los tipos limitan el conjunto de valores válidos que una variable puede tomar. 
+Por ejemplo, un entero de 16 bits con signo puede representar cualquier valor entero entre -32768 y 32767, pero no más que eso. 
+La capacidad de restringir el rango de valores permitidos ayuda a evitar clases completas de errores al no permitir la aparición de valores no válidos durante la ejecución del programa. 
+Visualizar los tipos como conjuntos de valores posibles es fundamental para comprender muchos de los conceptos abordados en este post.
+
+Además de distinguir entre código y datos, necesitamos saber cómo interpretar un fragmento de datos. 
+La secuencia de 16 bits 1100001010100011 puede representar el entero sin signo de 16 bits 49827, el entero con signo de 16 bits -15709, el carácter codificado en UTF-8 '£' o algo completamente diferente. 
+El hardware en el que se ejecutan nuestros programas almacena todo como secuencias de bits, por lo que necesitamos una capa adicional para darle significado a estos datos.
+
 Las computadoras ejecutan instrucciones almacenadas en la memoria y el procesador de la computadora interpreta estas instrucciones en 
 formato binario. La computadora sigue un conjunto específico de reglas para determinar qué datos binarios representan instrucciones a 
 ejecutar y qué datos representan otros tipos de información, como valores de datos o direcciones.
