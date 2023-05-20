@@ -1,16 +1,16 @@
 ---
 title: El contexto y la semántica - Parte 2
 author: marombeltran
-pubDatetime: 2023-05-05T10:59:19Z
+pubDatetime: 2023-05-20T10:59:19Z
 postSlug: context-and-semantics-part-2
 featured: true
 draft: false
 tags:
   - semantics
 ogImage: ""
-description: El sistema de tipos es un tema de estudio considerado no importante para el aprendizaje de un lenguaje de programación, pero si nos detenemos a pensar un 
-poco sobre su utilidad, nos damos cuenta de que su comprensión es esencial. Siempre que recurrimos a sus elementos, podemos apreciar su importancia en el desarrollo de software.
-El sistema de tipos de un lenguaje de programación define los tipos de datos disponibles y las reglas que gobiernan su uso...
+description: El sistema de tipos es un tema de estudio considerado no importante para el aprendizaje de un lenguaje de programación, pero si nos detenemos a pensar un poco sobre su utilidad, 
+  nos damos cuenta de que su comprensión es esencial. Siempre que recurrimos a sus elementos, podemos apreciar su importancia en el desarrollo de software.
+  El sistema de tipos de un lenguaje de programación define los tipos de datos disponibles y las reglas que gobiernan su uso...
 ---
 El sistema de tipos es un tema de estudio considerado no importante para el aprendizaje de un lenguaje de programación, pero si nos detenemos a pensar un poco sobre su utilidad, nos damos cuenta de que su comprensión es esencial. Siempre que recurrimos a sus elementos, podemos apreciar su importancia en el desarrollo de software.
 
