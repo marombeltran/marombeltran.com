@@ -76,6 +76,8 @@ Las computadoras ejecutan instrucciones almacenadas en la memoria y el procesado
 formato binario. La computadora sigue un conjunto específico de reglas para determinar qué datos binarios representan instrucciones a 
 ejecutar y qué datos representan otros tipos de información, como valores de datos o direcciones.
 
+... 
+
 La "computadora" usa una combinación de hardware y software para distinguir entre diferentes tipos de datos. 
 Aquí hay algunos componentes clave involucrados :
 
