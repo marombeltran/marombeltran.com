@@ -35,7 +35,7 @@ los cuáles son básicamente una capa superior al sistema. Los algorítmos son u
 los cuáles implican en su construcción una comprensión más profunda de las capacidades y limitaciones del sistema base.
 
 En el escenario planteado en este artículo no existe tal sistema, no existe un patrón para ser reconocido e interpretado, no hay nociones de un lenguaje comprensible y utilizable. 
-Es aquí donde entran algunos `elementos` importantes, sin los cuales todo esto no tiene ningún uso.
+Es aquí donde entran algunos *elementos* importantes, sin los cuales todo esto no tiene ningún uso.
 
 > Los sistemas están en todas partes, desde la forma en que nos comunicamos, la forma en que nos relacionamos, la forma en que enfrentamos una tarea o resovemos un problema, etc. 
 > Todos tenemos un sistema para todo, la forma en que hacemos nuestra vida tiene un sistema, es tu sistema. ¡Ya quitemosle el disfraz a todo esto que parece complicado!
