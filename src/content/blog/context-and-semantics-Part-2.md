@@ -53,7 +53,7 @@ codificados en ASCII u otro tipo.
 La "computadora" usa una combinación de hardware y software para distinguir entre diferentes tipos de datos.
 Aquí hay algunos componentes clave involucrados :
 
-**Instruction Set Architecture (ISA)**: la ISA `define el formato de las instrucciones y cómo se codifican en binario`.
+**Instruction Set Architecture (ISA)**: la ISA *define el formato de las instrucciones y cómo se codifican en binario*.
 Especifica la estructura de las instrucciones, incluido el código de operación (código de operación) y los operandos necesarios.
 
 **Fetch-Decode-Execute Cycle**: el procesador de la computadora sigue un ciclo conocido como ciclo de obtención, decodificación y ejecución.
