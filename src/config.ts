@@ -4,7 +4,7 @@ export const SITE = {
   website: "https://marombeltran.com/",
   author: "Marom Beltran",
   desc: "Marom Beltran | Personal Blog",
-  title: "//>marombeltran",
+  title: ">\\marombeltran",
   ogImage: "marombeltran.png",
   lightAndDarkMode: true,
   postPerPage: 3,

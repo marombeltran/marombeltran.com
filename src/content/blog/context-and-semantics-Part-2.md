@@ -118,13 +118,11 @@ Visualizar los tipos como conjuntos de valores posibles es fundamental para comp
 
 ![Figure 2](https://marombeltran.com/assets/semantics-part-2-fig.2.png)
 
-Además de distinguir entre código y datos, necesitamos saber cómo interpretar un fragmento de datos. 
-La secuencia de 16 bits 1100001010100011 puede representar el entero sin signo de 16 bits 49827, el entero con signo de 16 bits -15709, el carácter codificado en UTF-8 '£' o algo completamente diferente. 
-El hardware en el que se ejecutan nuestros programas almacena todo como secuencias de bits, por lo que necesitamos una capa adicional para darle significado a estos datos.
-
 Las computadoras ejecutan instrucciones almacenadas en la memoria y el procesador de la computadora interpreta estas instrucciones en 
 formato binario. La computadora sigue un conjunto específico de reglas para determinar qué datos binarios representan instrucciones a 
 ejecutar y qué datos representan otros tipos de información, como valores de datos o direcciones.
+
+... 
 
 La "computadora" usa una combinación de hardware y software para distinguir entre diferentes tipos de datos. 
 Aquí hay algunos componentes clave involucrados :
