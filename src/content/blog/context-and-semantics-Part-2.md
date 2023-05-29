@@ -25,7 +25,7 @@ cada celda almacena un 1 o un 0, solo sabemos que son lineas y columnas de estos
 ![Figure bits](https://marombeltran.com/assets/semantics-part-2-fig.0.png)
 
 Todo esto es una locura, cierto. Aunque ahora creo que ya te hiciste una idea de lo que se intenta establecer, déjame te explico: 
-`.. en realidad estamos hablando de un dispositivo de almacenamiento magnetico cualquiera`.
+*.. en realidad estamos hablando de un dispositivo de almacenamiento magnetico cualquiera*.
 Un Hard Disc, una Random Access Memory, o cualquier otra variante.
 
 ---
