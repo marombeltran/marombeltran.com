@@ -122,9 +122,23 @@ Las computadoras ejecutan instrucciones almacenadas en la memoria y el procesado
 formato binario. La computadora sigue un conjunto específico de reglas para determinar qué datos binarios representan instrucciones a 
 ejecutar y qué datos representan otros tipos de información, como valores de datos o direcciones.
 
-... 
+#### ¿Qué es un tipo?
+> Un tipo es una clasificación de datos que define las operaciones que se pueden realizar en esos datos, el significado de los datos y 
+> el conjunto de valores permitidos. El compilador y/o el tiempo de ejecución verifican la escritura para garantizar la integridad de los datos, 
+> hacer cumplir las restricciones de acceso e interpretar los datos según lo previsto por el desarrollador.
 
-La "computadora" usa una combinación de hardware y software para distinguir entre diferentes tipos de datos. 
-Aquí hay algunos componentes clave involucrados :
+Como habíamos visto anteriormente, un sistema de tipos es un método sintáctico utilizado para probar la *ausencia* ciertos comportamientos de los programas mediante la clasificación de frases según los tipos de valores que se representan.
 
-Las instrucciones se almacenan en una secuencia y formato específicos, y la CPU sabe cómo interpretarlas y ejecutarlas correctamente.
+Es decir, su objetivo es verificar que los valores computados en una instrucción se correspondan entre sí para devolver valores utilizables para la siguiente instrucción, ya que los valores de los computos serán utilizados de forma secuencial en la ejecución.
+
+Si existen dos datos de valores no predecibles en el rango de valores de su mismo tipo, debería provocar un error de tipos, imaginate intentar realizar una operación de cocientes sobre el conjunto de numeros natules, eso sería imposible para la serie de números impares, y
+teniendo el denominador diferente de uno 1, por lo tanto, necitamos el conjunto de los numeros racionales. 
+
+Cada uno de estos grupos de valores a los que llamamos conjuntos, en ciencias de la computación les llamamos tipos, y existen desde los más simples como 
+los conocidos universalemente (char, int, float, double, bool) y los compuestos (array, string, object, struct, etc).
+
+Cada valor de cada expresión computada debe de corresponderse con un valor dentro de estos grupos.
+
+> En el post siguiente vamos a explorar estos grupos, y veremos que tan denso puede ser cada grupo en sus reglas, 
+> ... he intentado explicar esto con mis palabras para que sea más accesible para la audiencia espero que te dé una noción ya que explicar esto en profundidad llevaría mucho trabajo, 
+> te espero en el próximo post, .. perdón por lo gazapos, sé que encontraras algunos, si los encuentras y quieres ayudarme con eso, escríbeme.
